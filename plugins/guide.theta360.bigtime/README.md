@@ -2,7 +2,7 @@ English(US) | [日本語](README.ja.md)
 
 # bigtime
 Matt Hotsinpillar  
-[Privacy Policy](../../README.md#privacy-policy) | [Terms of Services](../../README.md#terms-of-services)
+[Terms of Use](https://www.apache.org/licenses/LICENSE-2.0)
 
 <div align="center">
  <img src="1.png">

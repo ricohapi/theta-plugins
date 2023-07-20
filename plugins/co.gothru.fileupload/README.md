@@ -2,7 +2,7 @@ English(US) | [日本語](README.ja.md)
 
 # GoThru File Upload
 GoThru Media Inc.  
-[Privacy Policy](../../README.md#privacy-policy) | [Terms of Services](../../README.md#terms-of-services)
+[Terms of Use](https://gothru.co/termsofservice.php)
 
 <div align="center">
  <img src="1.png">

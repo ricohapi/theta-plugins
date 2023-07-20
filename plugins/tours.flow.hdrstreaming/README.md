@@ -2,7 +2,7 @@ English(US) | [日本語](README.ja.md)
 
 # HDR Wireless Live Streaming
 Web and Build Solutions  
-[Privacy Policy](../../README.md#privacy-policy) | [Terms of Services](../../README.md#terms-of-services)
+[Terms of Use](https://theta360.com/en/legal/terms_of_use_plugins/)
 
 <div align="center">
  <img src="1.png">

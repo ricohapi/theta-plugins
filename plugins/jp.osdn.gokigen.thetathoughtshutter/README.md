@@ -2,7 +2,7 @@ English(US) | [日本語](README.ja.md)
 
 # Theta "Thought" Shutter
 MRSa  
-[Privacy Policy](../../README.md#privacy-policy) | [Terms of Services](../../README.md#terms-of-services)
+[Terms of Use](https://osdn.net/projects/gokigen/scm/git/ThetaThoughtShutter/blobs/master/LICENSE.txt)
 
 <div align="center">
  <img src="1.png">

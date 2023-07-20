@@ -2,7 +2,7 @@ English(US) | [日本語](README.ja.md)
 
 # MESH Plug-in for RICOH THETA
 Sony Corporation  
-[Privacy Policy](../../README.md#privacy-policy) | [Terms of Services](../../README.md#terms-of-services)
+[Terms of Use](https://support.meshprj.com/hc/en-us/articles/115003533914)
 
 <div align="center">
  <img src="1.png">

@@ -2,7 +2,7 @@ English(US) | [日本語](README.ja.md)
 
 # Burst-IBL-Shooter
 CGSLAB  
-[Privacy Policy](../../README.md#privacy-policy) | [Terms of Services](../../README.md#terms-of-services)
+[Terms of Use](http://site.cgslab.info/archives/929)
 
 <div align="center">
  <img src="1.png">

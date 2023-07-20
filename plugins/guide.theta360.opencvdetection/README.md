@@ -2,7 +2,7 @@ English(US) | [日本語](README.ja.md)
 
 # Theta Magic Filters
 Dream and Build  
-[Privacy Policy](../../README.md#privacy-policy) | [Terms of Services](../../README.md#terms-of-services)
+[Terms of Use](https://opensource.org/licenses/MIT)
 
 <div align="center">
  <img src="1.png">

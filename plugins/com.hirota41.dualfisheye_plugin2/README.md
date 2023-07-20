@@ -2,7 +2,7 @@ English(US) | [日本語](README.ja.md)
 
 # DualFisheye RAW
 hirota41d  
-[Privacy Policy](../../README.md#privacy-policy) | [Terms of Services](../../README.md#terms-of-services)
+[Terms of Use](https://sites.google.com/view/h360/dualfisheye-raw)
 
 <div align="center">
  <img src="1.png">

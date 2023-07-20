@@ -2,7 +2,7 @@ English(US) | [日本語](README.ja.md)
 
 # Chicken Shot!
 Chuck Pressman  
-[Privacy Policy](../../README.md#privacy-policy) | [Terms of Services](../../README.md#terms-of-services)
+[Terms of Use](https://community.theta360.guide/t/chicken-shot-theta-plug-in-application-common-terms-agreement/4118)
 
 <div align="center">
  <img src="1.png">

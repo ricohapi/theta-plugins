@@ -2,7 +2,7 @@ English(US) | [日本語](README.ja.md)
 
 # VR Site Tour Time-Lapse
 EarthCam  
-[Privacy Policy](../../README.md#privacy-policy) | [Terms of Services](../../README.md#terms-of-services)
+[Terms of Use](https://cc8.earthcam.net/eula/web)
 
 <div align="center">
  <img src="1.png">
