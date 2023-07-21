@@ -2,7 +2,7 @@ English(US) | [日本語](README.ja.md)
 
 # HDR2EXR
 Kasper Oerlemans  
-[Privacy Policy](../../README.md#privacy-policy) | [Terms of Services](../../README.md#terms-of-services)
+[Terms of Use](http://www.apache.org/licenses/LICENSE-2.0)
 
 <div align="center">
  <img src="1.png">

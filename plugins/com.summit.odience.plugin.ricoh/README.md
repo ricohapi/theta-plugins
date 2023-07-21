@@ -2,7 +2,7 @@ English(US) | [日本語](README.ja.md)
 
 # Summit Odience
 Summit Tech  
-[Privacy Policy](../../README.md#privacy-policy) | [Terms of Services](../../README.md#terms-of-services)
+[Terms of Use](https://www.odience.com/privacyPolicy)
 
 <div align="center">
  <img src="1.png">

@@ -2,7 +2,7 @@ English(US) | [日本語](README.ja.md)
 
 # Avatar360Theta
 iPresence  
-[Privacy Policy](../../README.md#privacy-policy) | [Terms of Services](../../README.md#terms-of-services)
+[Terms of Use](https://s3-ap-northeast-1.amazonaws.com/terms.avator.taas.ipre.com/TandCiPresenceEN.html)
 
 <div align="center">
  <img src="1.png">

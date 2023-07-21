@@ -2,7 +2,7 @@ English(US) | [日本語](README.ja.md)
 
 # Smart 360 Time Lapse
 Nossa  
-[Privacy Policy](../../README.md#privacy-policy) | [Terms of Services](../../README.md#terms-of-services)
+[Terms of Use](https://nossa360biz.com/plugin_term)
 
 <div align="center">
  <img src="1.png">

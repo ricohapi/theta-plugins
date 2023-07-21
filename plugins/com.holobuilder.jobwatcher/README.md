@@ -2,7 +2,7 @@ English(US) | [日本語](README.ja.md)
 
 # HoloBuilder 360 SiteStream
 HoloBuilder Inc  
-[Privacy Policy](../../README.md#privacy-policy) | [Terms of Services](../../README.md#terms-of-services)
+[Terms of Use](https://www.holobuilder.com/terms-of-service-docs)
 
 <div align="center">
  <img src="1.png">

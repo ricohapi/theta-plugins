@@ -2,7 +2,7 @@ English(US) | [日本語](README.ja.md)
 
 # Live View with Smart AI
 Tokes Attila  
-[Privacy Policy](../../README.md#privacy-policy) | [Terms of Services](../../README.md#terms-of-services)
+[Terms of Use](https://sites.google.com/view/thetav-smart-live-view-360/terms-of-use)
 
 <div align="center">
  <img src="1.png">

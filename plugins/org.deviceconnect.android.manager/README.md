@@ -2,7 +2,7 @@ English(US) | [日本語](README.ja.md)
 
 # Device WebAPI Plug-in
 GClue, Inc.  
-[Privacy Policy](../../README.md#privacy-policy) | [Terms of Services](../../README.md#terms-of-services)
+[Terms of Use](http://www.gclue.io/privacy/en/privacy_theta.html)
 
 <div align="center">
  <img src="1.png">

@@ -2,7 +2,7 @@ English(US) | [日本語](README.ja.md)
 
 # Infomorph Live X
 Infomorph, Inc.  
-[Privacy Policy](../../README.md#privacy-policy) | [Terms of Services](../../README.md#terms-of-services)
+[Terms of Use](https://sites.infomorph.jp/terms-of-use-infomorph-live)
 
 <div align="center">
  <img src="1.png">
