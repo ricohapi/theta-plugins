@@ -95,7 +95,7 @@ DCIM/HDRI/Bracket/YYYYMMDD_HHMMSS/YYYYMMDD_HHMMSS_N.DNG
   * Version：1.3.0
   * Requires：
     * RICOH THETA Z1 (Firmware version 2.11.1,2.20.3,2.30.1)
-  * Support：[RICOH Plugins](https://support.theta360.com/ja/)
+  * Support：[RICOH Plugins](https://support.theta360.com/en/)
   * Age Restriction：No
 
 * The [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) basic app for computer is required to install plugins
