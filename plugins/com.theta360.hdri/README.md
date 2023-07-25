@@ -86,31 +86,15 @@ DCIM/HDRI/Bracket/YYYYMMDD_HHMMSS/YYYYMMDD_HHMMSS_N.JPG
 DCIM/HDRI/Bracket/YYYYMMDD_HHMMSS/YYYYMMDD_HHMMSS_N.DNG  
   
 ## What's New
-* Supports burst capture  
-However, during burst capture, up to 9 shots can be taken, and raw saving is turned off. Burst capture is ON by default.
-
 * Speeding up image processing (merge processing)
 
-* Added setting screen for the following items to WebUI
-  - Burst　capture mode [ON/OFF]
-  - HDR file format [OpenEXR(.exr)/Radiance HDR(.hdr)]
-
-* The item that can be set with the Mode button has been changed from HDR file format setting to self-timer setting
-
-* Corresponds to memorization of set values
-
-* Added 15, 30, 60 seconds to shutter speed upper limit
-
-* Changed EXR file save format as follows.  
-RGB 16-bit no compression (32-bit compression before V1.1)
-
-* Fixed an issue where noise (red, blue, white, etc.) occurred when widening the EV step width
+* Fixed the problem that top/bottom correction does not work.
 
 ## Information
-  * Updated：2024/4/10
-  * Version：1.2.0
+  * Updated：2023/7/25
+  * Version：1.3.0
   * Requires：
-    * RICOH THETA Z1 (Firmware version 2.11.1)
+    * RICOH THETA Z1 (Firmware version 2.11.1,2.20.3,2.30.1)
   * Support：[RICOH Plugins](https://support.theta360.com/ja/)
   * Age Restriction：No
 

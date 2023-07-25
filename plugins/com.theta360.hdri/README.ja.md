@@ -77,31 +77,15 @@ DCIM/HDRI/Bracket/YYYYMMDD_HHMMSS/YYYYMMDD_HHMMSS_N.JPG
 DCIM/HDRI/Bracket/YYYYMMDD_HHMMSS/YYYYMMDD_HHMMSS_N.DNG  
 
 ## 新機能
-* バースト撮影に対応  
-ただし、バースト撮影時は最大9枚、Raw保存はOffになります。初期値はバースト撮影ONとなります。
-
 * 画像処理（マージ処理）の高速化
 
-* WebUIに以下項目の設定画面を追加
-  * バースト撮影 [ON/OFF]
-  * HDRファイル形式 [OpenEXR(.exr)/Radiance HDR(.hdr)]
-
-* Modeボタンで設定できる項目を、「HDRファイル形式設定」から「セルフタイマー設定」に変更
-
-* 設定値の記憶に対応
-
-* シャッター速度上限に15, 30, 60秒を追加
-
-* EXRファイルの保存形式を以下のように変更  
-RGB 16ビット 圧縮なし（V1.1以前は32ビット 圧縮あり）
-
-* EVのステップ幅を広げた際にノイズ（赤、青、白など）が発生する問題を修正
+* 天頂補正されない問題を修正
 
 ## 情報
-  * 更新日：2023/4/10
-  * バージョン：1.2.0
+  * 更新日：2023/7/25
+  * バージョン：1.3.0
   * 要件：
-    * RICOH THETA Z1 （ファームウェア バージョン 2.11.1）
+    * RICOH THETA Z1 （ファームウェア バージョン 2.11.1,2.20.3,2.30.1）
   * サポート：[RICOH Plugins](https://support.theta360.com/ja/)
   * 年齢制限：なし
 
