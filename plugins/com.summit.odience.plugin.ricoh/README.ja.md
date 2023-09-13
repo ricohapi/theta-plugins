@@ -24,14 +24,11 @@ Summit Tech
 Virtual live streaming, remote participation, and communication services for your live events within the Odience app
 
 ## 新機能
-Implement new UI  
-Add a new pairing system with QR Codes  
-Add support of h265  
-Performance improvements
+Stitching improvements  
 
 ## 情報
-  * 更新日：2023/5/16
-  * バージョン：2.0.83
+  * 更新日：2023/9/13
+  * バージョン：2.0.88
   * 要件：
     * RICOH THETA X （ファームウェア バージョン 2.00.0）
   * サポート：[Partner Plugins](https://www.odience.com/support)
