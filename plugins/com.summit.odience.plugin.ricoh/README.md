@@ -25,14 +25,11 @@ Summit Tech
 Virtual live streaming, remote participation, and communication services for your live events within the Odience app
 
 ## What's New
-Implement new UI  
-Add a new pairing system with QR Codes  
-Add support of h265  
-Performance improvements
+Stitching improvements
 
 ## Information
-  * Updated：2023/5/16
-  * Version：2.0.83
+  * Updated：2023/9/13
+  * Version：2.0.88
   * Requires：
     * RICOH THETA X (Firmware version 2.00.0)
   * Support：[Partner Plugins](https://www.odience.com/support)
