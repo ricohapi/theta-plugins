@@ -28,8 +28,8 @@ Virtual live streaming, remote participation, and communication services for you
 Stitching improvements
 
 ## Information
-  * Updated：2023/9/13
-  * Version：2.0.88
+  * Updated：2023/9/15
+  * Version：1.0.88
   * Requires：
     * RICOH THETA X (Firmware version 2.00.0)
   * Support：[Partner Plugins](https://www.odience.com/support)

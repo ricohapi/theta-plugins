@@ -27,8 +27,8 @@ Virtual live streaming, remote participation, and communication services for you
 Stitching improvements  
 
 ## 情報
-  * 更新日：2023/9/13
-  * バージョン：2.0.88
+  * 更新日：2023/9/15
+  * バージョン：1.0.88
   * 要件：
     * RICOH THETA X （ファームウェア バージョン 2.00.0）
   * サポート：[Partner Plugins](https://www.odience.com/support)
