@@ -82,14 +82,14 @@ Click [here](#installing-the-plugins) for installation instructions
 - [VR Site Tour Time-Lapse](plugins/com.earthcam.vrsitetourtimelapse)
 - [Woof Shot!](plugins/guide.theta360.woofshot)
 
-## Installing the Plugins
+## Install the Plugin
 
 You can install plug-ins in the camera.<br>
 The basic app for computer is required to install plug-ins. Download the app from the following site.<br>
 https://support.theta360.com/en/download/pcmac/
 
 1. Connect the camera to the computer using the provided USB cable.
-2. Click the "Install on THETA" button from the description page of the plug-in you want to install.<br>The basic app for computer is started.
+2. Click the `Install on THETA` button from the description page of the plug-in you want to install.<br>The basic app for computer is started.
 3. Follow the instructions on the screen to install the plug-in.
 
 
