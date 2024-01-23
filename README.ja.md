@@ -1,6 +1,10 @@
 # THETA Plugins
 [English(US)](README.md) | 日本語
+
+インストール方法は[こちら](#プラグインをインストールする)
+
 ## プラグイン一覧
+
 ### RICOH Plugins
 - [360 Hunting Game](plugins/com.theta360.hunting360/README.ja.md)
 - [Animation Auto Framing](plugins/com.theta360.animationautoframing/README.ja.md)
@@ -77,6 +81,15 @@
 - [Voice Theta](plugins/com.invtos.voice_theta/README.ja.md)
 - [VR Site Tour Time-Lapse](plugins/com.earthcam.vrsitetourtimelapse/README.ja.md)
 - [Woof Shot!](plugins/guide.theta360.woofshot/README.ja.md)
+
+## プラグインをインストールする
+
+プラグインのインストールには、パソコン用基本アプリが必要です。<br>以下のサイトからダウンロードしてください。<br>
+https://support.theta360.com/ja/download/pcmac/
+
+1. 付属のUSBケーブルを使ってカメラとパソコンを接続する
+2. インストールするプラグインの説明ページから `Install on THETA` ボタンをクリックする<br>パソコン用基本アプリが起動します
+3. 画面の指示に従ってインストールする
 
 ## プラグインでさらに便利に、使いやすく。自分だけのTHETAに進化させよう！
 RICOH THETAシリーズのAndroid™ベースOSの機種では、スマートフォンにアプリをインストールして新しい機能を付加するように、様々な機能をプラグインで追加していくことが可能です。  
