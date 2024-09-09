@@ -1,7 +1,7 @@
 # THETA Plugins
 English(US) | [日本語](README.ja.md)  
 
-Click [here](#installing-the-plugins) for installation instructions
+Click [here](#install-the-plugin) for installation instructions
 
 
 ## Plugins
