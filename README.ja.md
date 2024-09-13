@@ -11,6 +11,7 @@
 - [Automatic Face Blur BETA](plugins/com.theta360.automaticfaceblur/README.ja.md)
 - [Continuous Shooting](plugins/com.theta360.continuousshooting/README.ja.md)
 - [File cloud upload V2](plugins/com.theta360.clouduploadv2/README.ja.md)
+- [HDR-DNG](plugins/com.ricoh360.hdrDng/README.ja.md)
 - [HDRI](plugins/com.theta360.hdri/README.ja.md)
 - [HDRI-X](plugins/com.theta360.hdri_x/README.ja.md)
 - [Instant Night Snap](plugins/com.theta360.instantnightsnap/README.ja.md)
