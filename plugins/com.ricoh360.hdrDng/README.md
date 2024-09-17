@@ -32,7 +32,7 @@ https://support.theta360.com/en/download/firmware/x/
 
 ## How to Launch Plugin
 
-Swipe left on the shooting screen of the THETA X to display the plugin selection screen, then tap “HDR-DNG”. For more details, please refer to [THETA Support](https://support.theta360.com/en/manual/x/content/menu-plugin.html).  
+Swipe left on the shooting screen of the THETA X to display the plugin selection screen, then tap “HDR-DNG”. For more details, please refer to [here](https://support.theta360.com/en/manual/x/content/menu-plugin.html).  
 
 ![image](assets/plugin_1_launch.png)  
 

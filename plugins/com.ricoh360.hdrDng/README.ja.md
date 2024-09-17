@@ -32,7 +32,7 @@ https://support.theta360.com/ja/download/firmware/x/
 
 ## 起動方法
 
-THETA Xの撮影画面で左方向にスワイプしてプラグイン選択画面を表示し、「HDR-DNG」をタップします。詳細は[THETA Support](https://support.theta360.com/ja/manual/x/content/menu-plugin.html)を参照して下さい。
+THETA Xの撮影画面で左方向にスワイプしてプラグイン選択画面を表示し、「HDR-DNG」をタップします。詳細は[こちら](https://support.theta360.com/ja/manual/x/content/menu-plugin.html)を参照して下さい。
 
 ![image](assets/plugin_1_launch.png)  
 
