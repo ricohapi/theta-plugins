@@ -87,7 +87,7 @@ QRコードを介して無線LANの簡単接続、及びWebUIへの簡単接続�
 
 ### 参考
 
-- [THETA Xの最新プラグイン 「HDR-DNG」のご利用手順について](http://blog.ricoh360.com/jp/howtouse-thetax-hdrdng-plugin)
+- [THETA Xの最新プラグイン 「HDR-DNG」のご利用手順について](http://blog.ricoh360.com/ja/howtouse-thetax-hdrdng-plugin)
 
 ## 情報
 
