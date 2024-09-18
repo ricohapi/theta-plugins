@@ -11,6 +11,7 @@ Click [here](#install-the-plugin) for installation instructions
 - [Automatic Face Blur BETA](plugins/com.theta360.automaticfaceblur)
 - [Continuous Shooting](plugins/com.theta360.continuousshooting)
 - [File cloud upload V2](plugins/com.theta360.clouduploadv2)
+- [HDR-DNG](plugins/com.ricoh360.hdrDng)
 - [HDRI](plugins/com.theta360.hdri)
 - [HDRI-X](plugins/com.theta360.hdri_x)
 - [Instant Night Snap](plugins/com.theta360.instantnightsnap)
