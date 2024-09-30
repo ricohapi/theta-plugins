@@ -49,11 +49,11 @@ Ricoh Company, Ltd.
 
 
 ## 情報
-  * 更新日：2022/10/27
-  * バージョン：1.0.0
+  * 更新日：2024/09/30
+  * バージョン：1.0.1
   * 要件：
-    * RICOH THETA X（ファームウェアバージョン1.30.0）
+    * RICOH THETA X（ファームウェアバージョン2.61.0）
   * サポート：[RICOH Plugins](https://support.theta360.com/ja/)
   * 年齢制限：なし
 
-* プラグインをインストールするにはパソコン用基本アプリ [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) が必要です
+* プラグインをインストールするにはパソコン用基本アプリ [RICOH THETA](https://support-theta.ricoh360.com/app-download) が必要です

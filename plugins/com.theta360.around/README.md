@@ -46,14 +46,14 @@ Press the shutter button or tap the frame near the center of the screen to begin
 Tap the thumbnail that is displayed after shooting, or exit the plug-in and tap the view button in the single view at the playback screen. Swipe left or right in the single view to move the view.  
 
 ## What's New
-
+  * 1.0.1 : Bug Fix  
 
 ## Information
-  * Updated：2022/10/26
-  * Version：1.0.0
+  * Updated：2024/09/30
+  * Version：1.0.1
   * Requires：
-    * RICOH THETA X (Firmware version 1.30.0)
+    * RICOH THETA X (Firmware version 2.61.0)
   * Support：[RICOH Plugins](https://support.theta360.com/ja/)
   * Age Restriction：No
 
-* The [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) basic app for computer is required to install plugins
+* The [RICOH THETA](https://support-theta.ricoh360.com/app-download) basic app for computer is required to install plugins
