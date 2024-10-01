@@ -46,14 +46,14 @@ Ricoh Company, Ltd.
 撮影後に表示されるサムネイルをタップするか、プラグインを終了して再生画面のシングルビューでViewボタンをタップすると再生されます。シングルビューを左右にスワイプすると視点が移動します。  
 
 ## 新機能
-
+  * 1.0.1 : バグ修正  
 
 ## 情報
-  * 更新日：2022/10/26
-  * バージョン：1.0.0
+  * 更新日：2024/09/30
+  * バージョン：1.0.1
   * 要件：
-    * RICOH THETA X（ファームウェアバージョン1.30.0）
+    * RICOH THETA X（ファームウェアバージョン2.61.0）
   * サポート：[RICOH Plugins](https://support.theta360.com/ja/)
   * 年齢制限：なし
 
-* プラグインをインストールするにはパソコン用基本アプリ [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) が必要です
+* プラグインをインストールするにはパソコン用基本アプリ [RICOH THETA](https://support-theta.ricoh360.com/app-download) が必要です
