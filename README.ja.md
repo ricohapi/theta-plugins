@@ -7,7 +7,7 @@ RICOH THETAシリーズのAndroid™ベースOSの機種では、スマートフ
 ## プラグインをインストールする
 
 > [!NOTE]
-> プラグインをインストールするには、[RICOH THETA PC App](https://support.ricoh360.com/app-download) が必要です。
+> プラグインをインストールするには、[RICOH THETA PC App](https://support.ricoh360.com/app-download/) が必要です。
 
 __インストール方法__
 
@@ -112,4 +112,4 @@ Android™ベースのOSを搭載したRICOH THETAでは、あなたもプラグ
 
 お申し込み内容を確認の上、担当者よりご連絡いたします。
 
-問い合わせフォームはこちら: https://www.ricoh360.com/ja/contact/
+RICOH360 お問い合わせフォーム: https://www.ricoh360.com/ja/contact/

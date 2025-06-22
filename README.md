@@ -114,4 +114,4 @@ Please include following details:
 
 After reviewing your application, our team will contact you.
 
-Registration form: https://www.ricoh360.com/contact/
+RICOH360 contact form: https://www.ricoh360.com/contact/
