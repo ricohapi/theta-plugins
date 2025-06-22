@@ -96,6 +96,6 @@ The Site will refuse publication if a plugin breaches a provision of the policie
 ## 12. Precautions for Development
 
 Developer expressly agrees that the RICOH THETA used in the development of the Plugin is exempt from the warranty separately stipulated by Ricoh for that product.
-Plugin developers are requested to re-read together with this Plugin Policy the [License Agreement](./make-your-theta/license-agreement.md) for RICOH THETA Plugin Partner Program and the [Privacy Policy](./make-your-theta/privacy-policy.md) for RICOH THETA Plugin Partner Program.
+Plugin developers are requested to re-read together with this Plugin Policy the [License Agreement](./license-agreement.md) for RICOH THETA Plugin Partner Program and the [Privacy Policy](./privacy-policy.md) for RICOH THETA Plugin Partner Program.
 
 END OF PLUGIN POLICY
