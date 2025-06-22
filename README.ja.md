@@ -16,7 +16,8 @@ __インストール方法__
 1. 画面の指示に従ってプラグインをインストールする。
 
 > [!CAUTION]
-> プラグインによっては、プライバシー資産に該当する画像・映像データおよび位置情報に影響を与える可能性があります。[THETA Plugin Application 共通利用規約](https://www.ricoh360.com/ja/terms/plugins/)を確認の上、ご利用ください。
+> プラグインによっては、プライバシー資産に該当する画像・映像データおよび位置情報に影響を与える可能性があります。  
+> [THETA Plugin Application 共通利用規約](https://www.ricoh360.com/ja/terms/plugins/)を確認の上、ご利用ください。
 
 ## プラグイン一覧
 

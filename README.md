@@ -16,7 +16,8 @@ __Install Instructions__
 1. Follow the instructions on the screen to install the plugin.
 
 > [!CAUTION]
-> Depending on the plugin being installed, it may affect image data, video data, and location data that constitute privacy assets. Please read and agree to the [THETA Plugin Application Common Terms Agreement](https://www.ricoh360.com/terms/plugins/) before installing plugins.
+> Depending on the plugin being installed, it may affect image data, video data, and location data that constitute privacy assets.  
+> Please read and agree to the [THETA Plugin Application Common Terms Agreement](https://www.ricoh360.com/terms/plugins/) before installing plugins.
 
 ## Plugins
 
