@@ -1,26 +1,18 @@
 [English(US)](README.md) | 日本語
 
 # Current Location
-SKUNK WORKS  
-[利用規約](https://theta360.com/en/legal/terms_of_use_plugins/)
 
-<div align="center">
- <img src="1.png">
- <table>
-  <tr>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-  </tr>
- </table>
-</div>
+SKUNK WORKS  
+[利用規約](https://www.ricoh360.com/ja/terms/plugins/)
+
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/skunkworks.currentlocation/apk)
 
-***
-
 ## 説明
+
+<div id="plugin-description">
+
 このプラグインは、OpenStreetMap(https://www.openstreetmap.org/copyright/)から提供されている地図データに現在地を表示します。  
   
 画面をドラッグすることで、任意の地点の地図を表示できます。  
@@ -39,15 +31,21 @@ SKUNK WORKS
 利用法については以下URLを参照してください。  
 https://github.com/theta-skunkworks/theta-plugin-current-location#6-calls-from-other-plugins-with-implicit-intents  
 
+</div>
+
 ## 新機能
+
+<div id="plugin-whats-new">
+
 暗黙的インテントのパラメータ解釈のバグを修正しました。
 
-## 情報
-  * 更新日：2022/10/20
-  * バージョン：1.0.2
-  * 要件：
-    * RICOH THETA X （ファームウェア バージョン 1.30.0）
-  * サポート：[Partner Plugins](https://github.com/theta-skunkworks/theta-plugin-current-location)
-  * 年齢制限：なし
+</div>
 
-* プラグインをインストールするにはパソコン用基本アプリ [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) が必要です
+## 情報
+
+- 更新日: 2022/10/20
+- バージョン: 1.0.2
+- 要件:
+  - RICOH THETA X (v1.30.0)
+- サポート: [Partner Plugins](https://github.com/theta-skunkworks/theta-plugin-current-location)
+- 年齢制限: なし

@@ -1,26 +1,18 @@
 [English(US)](README.md) | 日本語
 
 # HDRI
-Ricoh Company, Ltd.  
-[利用規約](https://theta360.com/en/legal/terms_of_use_plugins/)
 
-<div align="center">
- <img src="1.png">
- <table>
-  <tr>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-  </tr>
- </table>
-</div>
+Ricoh Company, Ltd.  
+[利用規約](https://www.ricoh360.com/ja/terms/plugins/)
+
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/com.theta360.hdri/apk)
 
-***
-
 ## 説明
+
+<div id="plugin-description">
+
 本プラグインはブラケット撮影後にカメラ内で高ダイナミックレンジ画像（EXR）を生成します。  
 通常、高ダイナミックレンジ画像（EXR）を生成するには、カメラで撮影した後、PCで画像編集し、EXRデータを生成するという手間がかかるものでした。HDRIプラグインでは1回シャッターを切っただけで、撮影から画像編集まで、THETA単体で行うことができます。生成された高ダイナミックレンジ画像は幅広い輝度差の情報を持っているので、CGやレンダリング作成時の環境光としてご活用いただくと、まるでその空間にいるかのような光の陰影を再現することができます。  
 なお、スマートフォンからライブプリビューを見ながら撮影することもできます。  
@@ -76,17 +68,23 @@ DCIM/HDRI/YYYYMMDD_HHMMSS.hdr
 DCIM/HDRI/Bracket/YYYYMMDD_HHMMSS/YYYYMMDD_HHMMSS_N.JPG  
 DCIM/HDRI/Bracket/YYYYMMDD_HHMMSS/YYYYMMDD_HHMMSS_N.DNG  
 
+</div>
+
 ## 新機能
+
+<div id="plugin-whats-new">
+
 * 画像処理（マージ処理）の高速化
 
 * 天頂補正されない問題を修正
 
-## 情報
-  * 更新日：2023/7/25
-  * バージョン：1.3.0
-  * 要件：
-    * RICOH THETA Z1 （ファームウェア バージョン 2.11.1,2.20.3,2.30.1）
-  * サポート：[RICOH Plugins](https://support.theta360.com/ja/)
-  * 年齢制限：なし
+</div>
 
-* プラグインをインストールするにはパソコン用基本アプリ [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) が必要です
+## 情報
+
+- 更新日: 2023/7/25
+- バージョン: 1.3.0
+- 要件:
+  - RICOH THETA Z1 (v2.11.1, v2.20.3, v2.30.1)
+- サポート: [RICOH Plugins](https://support.ricoh360.com/ja/)
+- 年齢制限: なし

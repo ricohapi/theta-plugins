@@ -1,27 +1,18 @@
 English(US) | [日本語](README.ja.md)
 
 # DualFisheye RAW
+
 hirota41d  
 [Terms of Use](https://sites.google.com/view/h360/dualfisheye-raw)
 
-<div align="center">
- <img src="1.png">
-
- <table>
-  <tr>
-   <td><img src="2.png"></td>
-   <td><img src="3.png"></td>
-   <td><img src="4.png"></td>
-   <td><img src="5.png"></td>
-  </tr>
- </table>
-</div>
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/com.hirota41.dualfisheye_plugin2/apk)
 
-***
-
 ## Description
+
+<div id="plugin-description">
+
 This plugin allows you to take multiple RAW images very quickly with just one click.  
   
 MODE  
@@ -53,17 +44,23 @@ You can also control this plugin from your android device by using remote app, w
 5. remote shutter by bluetooth remote controller (bonus feature)
 The remote app is available from here.  
 https://play.google.com/store/apps/details?id=hirota41.com.dualfishcontrollerraw  
-  
+
+</div>
+
 ## What's New
+
+<div id="plugin-whats-new">
+
 - Solved flickering OLED display issue when controlled by remote app
 - Improved remote app stability
 
-## Information
-  * Updated：2022/10/6
-  * Version：1.1.1
-  * Requires：
-    * RICOH THETA Z1 (Firmware version 2.10.3)
-  * Support：[Partner Plugins](https://sites.google.com/view/h360/top)
-  * Age Restriction：No
+</div>
 
-* The [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) basic app for computer is required to install plugins
+## Information
+
+- Updated: 2022/10/6
+- Version: 1.1.1
+- Requires:
+  - RICOH THETA Z1 (v2.10.3)
+- Support: [Partner Plugins](https://sites.google.com/view/h360/top)
+- Age Restriction: No

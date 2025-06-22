@@ -1,27 +1,18 @@
 [English(US)](README.md) | 日本語
 
 # Person Detection & Counting
+
 Ricoh Company, Ltd.  
-[利用規約](https://theta360.com/en/legal/terms_of_use_plugins/)
+[利用規約](https://www.ricoh360.com/ja/terms/plugins/)
 
-<div align="center">
- <img src="1.png">
-
- <table>
-  <tr>
-   <td><img src="2.png"></td>
-   <td><img src="3.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-  </tr>
- </table>
-</div>
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/com.theta360.persondetectionandcounting/apk)
 
-***
-
 ## 説明
+
+<div id="plugin-description">
+
 THETAに写り込んだ人を検知して人数をIFTTT(※)に投稿します。設定した時間間隔で検知と投稿を繰り返します。  
   
 利用例1:  
@@ -40,15 +31,15 @@ https://support.theta360.com/intl/ricoh_plugins/pdf/persondetectionandcounting_j
 弊社は、パイロット運用を通じて得られた知見や皆様からのご提案をなんらの制約なく自由に利用できるものといたします。なお、弊社は皆様からお送りいただいたご提案を検討、評価、採用する義務を負わないものといたします。  
   
 https://bit.ly/34wZ5yg  
-   
+
+</div>
 
 ## 情報
-  * 更新日：2020/10/12
-  * バージョン：1.0.0
-  * 要件：
-    * RICOH THETA Z1 （ファームウェア バージョン 1.60.1）
-    * RICOH THETA V （ファームウェア バージョン 3.50.1）
-  * サポート：[RICOH Plugins](https://support.theta360.com/ja/)
-  * 年齢制限：なし
 
-* プラグインをインストールするにはパソコン用基本アプリ [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) が必要です
+- 更新日: 2020/10/12
+- バージョン: 1.0.0
+- 要件:
+  - RICOH THETA Z1 (v1.60.1)
+  - RICOH THETA V (v3.50.1)
+- サポート: [RICOH Plugins](https://support.ricoh360.com/ja/)
+- 年齢制限: なし

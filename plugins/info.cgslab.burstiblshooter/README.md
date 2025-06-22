@@ -1,27 +1,18 @@
 English(US) | [日本語](README.ja.md)
 
 # Burst-IBL-Shooter
+
 CGSLAB  
 [Terms of Use](https://site.cgslab.info/services/burst-ibl-shooter)
 
-<div align="center">
- <img src="1.png">
-
- <table>
-  <tr>
-   <td><img src="2.png"></td>
-   <td><img src="3.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-  </tr>
- </table>
-</div>
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/info.cgslab.burstiblshooter/apk)
 
-***
-
 ## Description
+
+<div id="plugin-description">
+
 Burst Capture Mode of Camera API is used.  
 Seven shots are taken in ±3EV steps based on a -5EV offset from the auto exposure.  
 Bracketed shots can be taken properly from dark indoors to bright outdoors.  
@@ -52,12 +43,13 @@ https://cgworld.jp/regular/theta_z1/
 Bracket order has been changed from [0 > - > +] to [- > 0 > +].  
 As a result of this change, the exported sequentially numbered images now follow the exposure order.  
 
-## Information
-  * Updated：2024/5/21
-  * Version：1.2.0
-  * Requires：
-    * RICOH THETA Z1 (Firmware version 2.10.3, 2.11.1, 2.20.3, 2.30.1, 3.01.1, 3.10.2)
-  * Support：[Partner Plugins](http://site.cgslab.info/)
-  * Age Restriction：No
+</div>
 
-* The [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) basic app for computer is required to install plugins
+## Information
+
+- Updated: 2024/5/21
+- Version: 1.2.0
+- Requires:
+  - RICOH THETA Z1 (v2.10.3, v2.11.1, v2.20.3, v2.30.1, v3.01.1, v3.10.2)
+- Support: [Partner Plugins](http://site.cgslab.info/)
+- Age Restriction: No

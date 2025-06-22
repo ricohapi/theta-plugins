@@ -1,27 +1,18 @@
 English(US) | [日本語](README.ja.md)
 
 # HDRI
+
 Ricoh Company, Ltd.  
-[Terms of Use](https://theta360.com/en/legal/terms_of_use_plugins/)
+[Terms of Use](https://www.ricoh360.com/terms/plugins/)
 
-<div align="center">
- <img src="1.png">
-
- <table>
-  <tr>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-  </tr>
- </table>
-</div>
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/com.theta360.hdri/apk)
 
-***
-
 ## Description
+
+<div id="plugin-description">
+
 This plug-in will create high dynamic range images (EXR) in the camera after bracket shooting.  
 "Normally, to create high dynamic range images (EXR), it was necessary to perform the lengthy process of shooting an image with the camera and then editing it on a PC before creating EXR data. The HDRI plug-in enables you to use only THETA to simply press the shutter button once to perform the process from shooting to image editing.  
 Created high dynamic range images contain information with a wide range of brightness difference. This allows you to use them for ambient lighting when creating CG and rendering, which enables you to reproduce shades of light so that it feels as though you are actually in the space where the image was taken."  
@@ -84,18 +75,24 @@ DCIM/HDRI/YYYYMMDD_HHMMSS.hdr
 [Bracket shooting result (original data of .exr file)]  
 DCIM/HDRI/Bracket/YYYYMMDD_HHMMSS/YYYYMMDD_HHMMSS_N.JPG  
 DCIM/HDRI/Bracket/YYYYMMDD_HHMMSS/YYYYMMDD_HHMMSS_N.DNG  
-  
+
+</div>
+
 ## What's New
+
+<div id="plugin-whats-new">
+
 * Speeding up image processing (merge processing)
 
 * Fixed the problem that top/bottom correction does not work.
 
-## Information
-  * Updated：2023/7/25
-  * Version：1.3.0
-  * Requires：
-    * RICOH THETA Z1 (Firmware version 2.11.1,2.20.3,2.30.1)
-  * Support：[RICOH Plugins](https://support.theta360.com/en/)
-  * Age Restriction：No
+</div>
 
-* The [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) basic app for computer is required to install plugins
+## Information
+
+- Updated: 2023/7/25
+- Version: 1.3.0
+- Requires:
+  - RICOH THETA Z1 (v2.11.1, v2.20.3, v2.30.1)
+- Support: [RICOH Plugins](https://support.theta360.com/en/)
+- Age Restriction: No

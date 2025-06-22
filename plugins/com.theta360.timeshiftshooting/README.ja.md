@@ -1,26 +1,18 @@
 [English(US)](README.md) | 日本語
 
 # Time Shift Shooting
-Ricoh Company, Ltd.  
-[利用規約](https://theta360.com/en/legal/terms_of_use_plugins/)
 
-<div align="center">
- <img src="1.png">
- <table>
-  <tr>
-   <td><img src="2.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-  </tr>
- </table>
-</div>
+Ricoh Company, Ltd.  
+[利用規約](https://www.ricoh360.com/ja/terms/plugins/)
+
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/com.theta360.timeshiftshooting/apk)
 
-***
-
 ## 説明
+
+<div id="plugin-description">
+
 RICOH THETAのフロントレンズ側とリアレンズ*側を時間差で撮影します。  
 撮影状態ではない方のレンズ側に移動することで、撮影者が映り込まない写真が記録できます**。  
 *　 リアレンズはシャッターボタン側です  
@@ -40,17 +32,23 @@ Modeボタンを長押しし、プラグインを起動。本体シャッター�
 - 注意事項  
 プラグインを起動した状態で、スマートフォン用基本アプリを操作することは出来ません。  
 
+</div>
+
 ## 新機能
+
+<div id="plugin-whats-new">
+
 リモートコントロール TR-1に対応しました。(対象機種：RICOH THETA Z1)
 リモートコントロール TR-1を使用して撮影したい場合は、本プラグインを起動する前に、THETA本体とのペアリングを完了してください。
 
-## 情報
-  * 更新日：2021/9/2
-  * バージョン：1.0.2
-  * 要件：
-    * RICOH THETA Z1 （ファームウェア バージョン 2.00.1）
-    * RICOH THETA V （ファームウェア バージョン 3.70.1）
-  * サポート：[RICOH Plugins](https://support.theta360.com/ja/)
-  * 年齢制限：なし
+</div>
 
-* プラグインをインストールするにはパソコン用基本アプリ [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) が必要です
+## 情報
+
+- 更新日: 2021/9/2
+- バージョン: 1.0.2
+- 要件:
+  - RICOH THETA Z1 (v2.00.1)
+  - RICOH THETA V (v3.70.1)
+- サポート: [RICOH Plugins](https://support.ricoh360.com/ja/)
+- 年齢制限: なし

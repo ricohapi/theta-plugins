@@ -1,26 +1,18 @@
 [English(US)](README.md) | 日本語
 
 # BT Earphone Remote
-SKUNK WORKS  
-[利用規約](https://theta360.com/en/legal/terms_of_use_plugins/)
 
-<div align="center">
- <img src="1.png">
- <table>
-  <tr>
-   <td><img src="2.png"></td>
-   <td><img src="3.png"></td>
-   <td><img src="4.png"></td>
-   <td><img src="5.png"></td>
-  </tr>
- </table>
-</div>
+SKUNK WORKS  
+[利用規約](https://www.ricoh360.com/ja/terms/plugins/)
+
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/skunkworks.headset/apk)
 
-***
-
 ## 説明
+
+<div id="plugin-description">
+
 このTHETAプラグインを使うと、イヤホンをはじめとするBluetoothオーディオデバイスからTHETAをリモート操作できるようになります。  
   
 ペアリングの手順は簡単です。  
@@ -39,15 +31,15 @@ THETAのWLANボタンを長押しすると、発話言語を切り替えるこ�
 制約事項：  
 このプラグインを起動すると、キャプチャモードを「静止画モード」に切り替わります。  
 プラグインが終了しても、キャプチャモードは「静止画モード」のままです。  
-  
-  
-## 情報
-  * 更新日：2020/11/20
-  * バージョン：1.2.0
-  * 要件：
-    * RICOH THETA Z1 （ファームウェア バージョン 1.50.1）
-    * RICOH THETA V （ファームウェア バージョン 3.40.1）
-  * サポート：[Partner Plugins](https://github.com/theta-skunkworks/theta-plugin-bluetooth-headset-sample)
-  * 年齢制限：なし
 
-* プラグインをインストールするにはパソコン用基本アプリ [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) が必要です
+</div>
+
+## 情報
+
+- 更新日: 2020/11/20
+- バージョン: 1.2.0
+- 要件:
+  - RICOH THETA Z1 (v1.50.1)
+  - RICOH THETA V (v3.40.1)
+- サポート: [Partner Plugins](https://github.com/theta-skunkworks/theta-plugin-bluetooth-headset-sample)
+- 年齢制限: なし

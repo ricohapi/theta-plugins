@@ -1,26 +1,18 @@
 [English(US)](README.md) | 日本語
 
 # Chicken Shot!
+
 Chuck Pressman  
 [利用規約](https://community.theta360.guide/t/chicken-shot-theta-plug-in-application-common-terms-agreement/4118)
 
-<div align="center">
- <img src="1.png">
- <table>
-  <tr>
-   <td><img src="2.png"></td>
-   <td><img src="3.png"></td>
-   <td><img src="4.png"></td>
-   <td><img src="5.png"></td>
-  </tr>
- </table>
-</div>
+<div align="center"><img src="1.png"><table><tr><td><img src="2.png"></td><td><img src="3.png"></td><td><img src="4.png"></td><td><img src="5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/guide.theta360.chickenshot/apk)
 
-***
-
 ## 説明
+
+<div id="plugin-description">
+
 This plug-in is called Chicken Shot! and it plays two different bird calls from the THETA internal speaker. It is intended for having use in a chicken pen or maybe outdoors in order to catch chickens or birds doing interesting things. The plug-in is controlled by a webpage with two buttons for the bird calls and one button for taking a picture. This makes it super simple and obvious to use, which is useful when you're trying to take bird pictures.  
   
 Basically, there are three things you can do with this plug-in.  
@@ -40,14 +32,14 @@ theta-plugin-sdk Copyright 2018 theta4j project
 App icons are created by ICOOON MONO  
   
 Bird icons made by Freepik from www.flaticon.com  
-  
+
+</div>
 
 ## 情報
-  * 更新日：2019/2/22
-  * バージョン：1.0.0
-  * 要件：
-    * RICOH THETA V （ファームウェア バージョン 2.50.1）
-  * サポート：[Partner Plugins](https://community.theta360.guide/)
-  * 年齢制限：なし
 
-* プラグインをインストールするにはパソコン用基本アプリ [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) が必要です
+- 更新日: 2019/2/22
+- バージョン: 1.0.0
+- 要件:
+  - RICOH THETA V (v2.50.1)
+- サポート: [Partner Plugins](https://community.theta360.guide/)
+- 年齢制限: なし

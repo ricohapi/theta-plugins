@@ -1,27 +1,18 @@
 [English(US)](README.md) | 日本語
 
 # Route Shooting BETA
+
 Ricoh Company, Ltd.  
-[利用規約](https://theta360.com/en/legal/terms_of_use_plugins/)
+[利用規約](https://www.ricoh360.com/ja/terms/plugins/)
 
-<div align="center">
- <img src="1.png">
-
- <table>
-  <tr>
-   <td><img src="2.png"></td>
-   <td><img src="3.png"></td>
-   <td><img src="/resources/common/img/noimg.png"></td>
-   <td><img src="/resources/common/img/noimg.png"></td>
-  </tr>
- </table>
-</div>
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/com.theta360.walk/apk)
 
-***
-
 ## 説明
+
+<div id="plugin-description">
+
 移動しながら360°動画を撮影することで、カメラが移動した経路を示す動画を生成するプラグインです。Visual SLAM技術で検出したカメラ位置情報*を360°動画に割り当てます。これにより、従来の再生方法とは異なる 360° での新しいビデオ体験を提供します。撮影した映像をカメラで再生すると、カメラが移動したルートが表示されます。ビデオは、スタートからゴールまで、または選択したポイントまで、360° ハイパーラプス ビデオのように表示できます。これにより、空間の動きを疑似的に体験することができ、写真では伝えきれない空間感を伝えるのに最適です。  
 
 ※自己位置推定による相対位置情報（GNSS（全地球航法衛星システム）による位置情報ではありません）  
@@ -45,15 +36,13 @@ Ricoh Company, Ltd.
 – 再生  
 撮影後に表示されるサムネイルをタップするか、プラグインを終了して再生画面のシングルビューでビューボタンをタップします。再生中に表示される移動経路表示は、ズームアウトボタンをタップして非表示にすることもできます。「G」ボタンをタップするとビューが撮影終了地点に移動し、「S」ボタンをタップするとビューが撮影開始地点に移動します。ビューの移動中に画面をタップすると、移動が停止します。  
 
-## 新機能
-
+</div>
 
 ## 情報
-  * 更新日：2024/09/30
-  * バージョン：1.0.1
-  * 要件：
-    * RICOH THETA X（ファームウェアバージョン2.61.0）
-  * サポート：[RICOH Plugins](https://support.theta360.com/ja/)
-  * 年齢制限：なし
 
-* プラグインをインストールするにはパソコン用基本アプリ [RICOH THETA](https://support-theta.ricoh360.com/app-download) が必要です
+- 更新日: 2024/09/30
+- バージョン: 1.0.1
+- 要件:
+  - RICOH THETA X (v2.61.0)
+- サポート: [RICOH Plugins](https://support.ricoh360.com/ja/)
+- 年齢制限: なし

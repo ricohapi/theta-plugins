@@ -1,26 +1,18 @@
 [English(US)](README.md) | 日本語
 
 # Smart Device
-Ricoh Company, Ltd.  
-[利用規約](https://theta360.com/en/legal/terms_of_use_plugins/)
 
-<div align="center">
- <img src="1.png">
- <table>
-  <tr>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-  </tr>
- </table>
-</div>
+Ricoh Company, Ltd.  
+[利用規約](https://www.ricoh360.com/ja/terms/plugins/)
+
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/com.theta360.smartdevice/apk)
 
-***
-
 ## 説明
+
+<div id="plugin-description">
+
 Smart Deviceプラグインを使うことでAmazon EchoなどのAlexa搭載デバイス*と連携できます｡  
 連携後はAlexa搭載デバイスを通して､音声でRICOH THETAを操作できます｡  
 静止画の撮影､動画の撮影､静止画の撮影設定変更**などの操作が可能です｡  
@@ -60,13 +52,14 @@ RICOH THETAを起動時
   
 Amazon、 Echo、 Echo Dot、 Alexaおよび、関連するすべてのロゴおよび動き商標はAmazon.com, Inc. またはその関連会社の商標です 
 
-## 情報
-  * 更新日：2019/10/11
-  * バージョン：1.0.0
-  * 要件：
-    * RICOH THETA Z1 （ファームウェア バージョン 1.11.1）
-    * RICOH THETA V （ファームウェア バージョン 3.04.1）
-  * サポート：[RICOH Plugins](https://support.theta360.com/ja/)
-  * 年齢制限：なし
+</div>
 
-* プラグインをインストールするにはパソコン用基本アプリ [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) が必要です
+## 情報
+
+- 更新日: 2019/10/11
+- バージョン: 1.0.0
+- 要件:
+  - RICOH THETA Z1 (v1.11.1)
+  - RICOH THETA V (v3.04.1)
+- サポート: [RICOH Plugins](https://support.ricoh360.com/ja/)
+- 年齢制限: なし

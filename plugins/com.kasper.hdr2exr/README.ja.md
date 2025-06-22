@@ -1,26 +1,18 @@
 [English(US)](README.md) | 日本語
 
 # HDR2EXR
+
 Kasper Oerlemans  
 [利用規約](http://www.apache.org/licenses/LICENSE-2.0)
 
-<div align="center">
- <img src="1.png">
- <table>
-  <tr>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-  </tr>
- </table>
-</div>
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/com.kasper.hdr2exr/apk)
 
-***
-
 ## 説明
+
+<div id="plugin-description">
+
 HDR2EXR is a plug-in for RICOH THETA V to help visual special effects professionally easily grab lighting conditions on-set. Just by pressing the shutter button once, the HDR2EXR plug-in will take 11 bracketed pictures and merge them to one HDR file. The main use is intended for on-set VFX HDR capture.  
   
 Details  
@@ -53,17 +45,22 @@ The integration of OpenCV is a combination of https://community.theta360.guide/t
 The HDR part is based on https://www.learnopencv.com/high-dynamic-range-hdr-imaging-using-opencv-cpp-python/  
 Feel free to change, improve and of course use!  
 Let me know what you think and run into!  
-  
-  
+
+</div>
+
 ## 新機能
+
+<div id="plugin-whats-new">
+
 Supports RICOH THETA V firmware 3.00.1
 
-## 情報
-  * 更新日：2019/6/14
-  * バージョン：1.0.2
-  * 要件：
-    * RICOH THETA V （ファームウェア バージョン 2.50.1,3.00.1）
-  * サポート：[Partner Plugins](https://community.theta360.guide/t/hdr-plugin-to-automatically-create-exr-file-for-vfx-use/4132)
-  * 年齢制限：なし
+</div>
 
-* プラグインをインストールするにはパソコン用基本アプリ [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) が必要です
+## 情報
+
+- 更新日: 2019/6/14
+- バージョン: 1.0.2
+- 要件:
+  - RICOH THETA V (v2.50.1, v3.00.1)
+- サポート: [Partner Plugins](https://community.theta360.guide/t/hdr-plugin-to-automatically-create-exr-file-for-vfx-use/4132)
+- 年齢制限: なし

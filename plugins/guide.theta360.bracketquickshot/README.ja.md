@@ -1,26 +1,18 @@
 [English(US)](README.md) | 日本語
 
 # Bracket Quick Shot
+
 jimmieD  
 [利用規約](https://www.apache.org/licenses/LICENSE-2.0.html)
 
-<div align="center">
- <img src="1.png">
- <table>
-  <tr>
-   <td><img src="2.png"></td>
-   <td><img src="3.png"></td>
-   <td><img src="4.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-  </tr>
- </table>
-</div>
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/guide.theta360.bracketquickshot/apk)
 
-***
-
 ## 説明
+
+<div id="plugin-description">
+
 Take 3 shots at different exposures.  
   
 Workflow  
@@ -61,13 +53,14 @@ Although 3 Bracket Quick Shot is designed for you to throw away 2 out of the 3 i
 The example below is using Luminance HDR.  
   
 You can also create HDR files from all 5 images.  
-  
-## 情報
-  * 更新日：2019/6/18
-  * バージョン：1.0.0
-  * 要件：
-    * RICOH THETA V （ファームウェア バージョン 2.50.1）
-  * サポート：[Partner Plugins](https://community.theta360.guide/c/theta-api-usage/plugin)
-  * 年齢制限：なし
 
-* プラグインをインストールするにはパソコン用基本アプリ [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) が必要です
+</div>
+
+## 情報
+
+- 更新日: 2019/6/18
+- バージョン: 1.0.0
+- 要件:
+  - RICOH THETA V (v2.50.1)
+- サポート: [Partner Plugins](https://community.theta360.guide/c/theta-api-usage/plugin)
+- 年齢制限: なし

@@ -1,26 +1,18 @@
 [English(US)](README.md) | 日本語
 
 # Plug-in Launcher for Z1
-SKUNK WORKS  
-[利用規約](https://theta360.com/en/legal/terms_of_use_plugins/)
 
-<div align="center">
- <img src="1.png">
- <table>
-  <tr>
-   <td><img src="2.png"></td>
-   <td><img src="3.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-  </tr>
- </table>
-</div>
+SKUNK WORKS  
+[利用規約](https://www.ricoh360.com/ja/terms/plugins/)
+
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/skunkworks.launcher/apk)
 
-***
-
 ## 説明
+
+<div id="plugin-description">
+
 THETA単独で、既にインストールされている全てのプラグインから目的のプラグインを選択し、プラグインを起動することができます。  
 もう、プラグインを起動する前に、スマートフォンやパソコンとTHETAを接続する必要がありません！  
   
@@ -53,14 +45,14 @@ THETA単独で、既にインストールされている全てのプラグイン
   
 注意：  
 このプラグインから別のプラグインを起動した後は、このプラグインのみが標準プラグインの開始リストに設定されます。  
-  
-  
-## 情報
-  * 更新日：2019/10/17
-  * バージョン：1.0.2
-  * 要件：
-    * RICOH THETA Z1 （ファームウェア バージョン 1.11.1）
-  * サポート：[Partner Plugins](https://github.com/theta-skunkworks/theta-plug-in-launcher)
-  * 年齢制限：なし
 
-* プラグインをインストールするにはパソコン用基本アプリ [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) が必要です
+</div>
+
+## 情報
+
+- 更新日: 2019/10/17
+- バージョン: 1.0.2
+- 要件:
+  - RICOH THETA Z1 (v1.11.1)
+- サポート: [Partner Plugins](https://github.com/theta-skunkworks/theta-plug-in-launcher)
+- 年齢制限: なし

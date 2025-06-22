@@ -1,27 +1,18 @@
 [English(US)](README.md) | 日本語
 
 # Starry Sky Snap
-Ricoh Company, Ltd.  
-[利用規約](https://theta360.com/en/legal/terms_of_use_plugins/)
 
-<div align="center">
- <img src="1.png">
- 
- <table>
-  <tr>
-   <td><img src="2.png"></td>
-   <td><img src="3.png"></td>
-   <td><img src="4.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-  </tr>
- </table>
-</div>
+Ricoh Company, Ltd.  
+[利用規約](https://www.ricoh360.com/ja/terms/plugins/)
+
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/com.theta360.starryskysnap/apk)
 
-***
-
 ## 説明
+
+<div id="plugin-description">
+
 本プラグインは、簡単に星空を撮影 できるプラグインです。  
 
 星空を撮影するには、色々な撮影設定が必要です。このプラグインでは、星空が見える環境で、シャッターボタンを押すだけで、カメラが星空の状態を分析し、最適な撮影設定で撮影を行います。専門的な知識がなくても簡単に星空が撮影できます。  
@@ -79,16 +70,22 @@ THETA Z1で設定したファイル保存形式は、プラグイン独自に保
 
 本プラグインを正しく終了しなかった場合、プラグイン起動前のカメラ設定が変更されている場合があります。  
 
+</div>
+
 ## 新機能
+
+<div id="plugin-whats-new">
+
 RICOH THETA Z1において、無線ボタン操作によりファイル保存形式(JPEG/RAW+)を選択できるようにしました。 
 
-## 情報
-  * 更新日：2022/9/16
-  * バージョン：1.1.0
-  * 要件：
-    * RICOH THETA Z1 （ファームウェア バージョン 2.10.1）
-    * RICOH THETA V （ファームウェア バージョン 3.80.2）
-  * サポート：[RICOH Plugins](https://support.theta360.com/ja/)
-  * 年齢制限：なし
+</div>
 
-* プラグインをインストールするにはパソコン用基本アプリ [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) が必要です
+## 情報
+
+- 更新日: 2022/9/16
+- バージョン: 1.1.0
+- 要件:
+  - RICOH THETA Z1 (v2.10.1)
+  - RICOH THETA V (v3.80.2)
+- サポート: [RICOH Plugins](https://support.ricoh360.com/ja/)
+- 年齢制限: なし

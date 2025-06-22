@@ -1,26 +1,18 @@
 [English(US)](README.md) | 日本語
 
 # HID Remote
-SKUNK WORKS  
-[利用規約](https://theta360.com/en/legal/terms_of_use_plugins/)
 
-<div align="center">
- <img src="1.png">
- <table>
-  <tr>
-   <td><img src="2.png"></td>
-   <td><img src="3.png"></td>
-   <td><img src="4.png"></td>
-   <td><img src="5.png"></td>
-  </tr>
- </table>
-</div>
+SKUNK WORKS  
+[利用規約](https://www.ricoh360.com/ja/terms/plugins/)
+
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/skunkworks.hid/apk)
 
-***
-
 ## 説明
+
+<div id="plugin-description">
+
 このプラグインを使うと、接続したHID(Human Interface Device)を用いて、THETAをリモートコントロールできるようになります。  
   
 HIDにはキーボード、マウス、フィンガープレゼンター、ゲームコントローラ、VRマウスなど様々なものがあります。  
@@ -47,8 +39,13 @@ https://youtu.be/to9nDoRqm3Y
 このプラグインを使ってTHETA本体のボタンの役割も変更することができます。  
   
 このプラグインを使ってあなたのTHETAをより良い操作性にカスタマイズしてみてください。  
-  
+
+</div>
+
 ## 新機能
+
+<div id="plugin-whats-new">
+
 バージョンアップ内容は以下の通りです。  
   
 1.二ヵ国語対応と音質向上:  
@@ -61,14 +58,15 @@ https://youtu.be/to9nDoRqm3Y
 
 3.Bluetooth HIDへの対応  
 プラグインのバージョンが古いままでも、THETAのFWのバージョンをアップすると利用可能でしたが、改めて利用方法を記載しました。  
-  
-## 情報
-  * 更新日：2021/6/3
-  * バージョン：1.1.0
-  * 要件：
-    * RICOH THETA Z1 （ファームウェア バージョン 1.60.1,1.80.1）
-    * RICOH THETA V （ファームウェア バージョン 3.60.1）
-  * サポート：[Partner Plugins](https://github.com/theta-skunkworks/theta-plugin-usb-hid-sample)
-  * 年齢制限：なし
 
-* プラグインをインストールするにはパソコン用基本アプリ [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) が必要です
+</div>
+
+## 情報
+
+- 更新日: 2021/6/3
+- バージョン: 1.1.0
+- 要件:
+  - RICOH THETA Z1 (v1.60.1, v1.80.1s)
+  - RICOH THETA V (v3.60.1)
+- サポート: [Partner Plugins](https://github.com/theta-skunkworks/theta-plugin-usb-hid-sample)
+- 年齢制限: なし

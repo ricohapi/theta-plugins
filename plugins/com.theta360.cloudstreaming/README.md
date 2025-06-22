@@ -1,27 +1,18 @@
 English(US) | [日本語](README.ja.md)
 
 # Wireless Live Streaming
+
 Ricoh Company, Ltd.  
-[Terms of Use](https://theta360.com/en/legal/terms_of_use_plugins/)
+[Terms of Use](https://www.ricoh360.com/terms/plugins/)
 
-<div align="center">
- <img src="1.png">
-
- <table>
-  <tr>
-   <td><img src="2.png"></td>
-   <td><img src="3.png"></td>
-   <td><img src="4.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-  </tr>
- </table>
-</div>
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/com.theta360.cloudstreaming/apk)
 
-***
-
 ## Description
+
+<div id="plugin-description">
+
 With Wireless Live Streaming, by connecting the RICOH THETA to a wireless LAN access point, you can easily live stream 360° video to YouTube without using a computer.  
 *RICOH THETA needs to be used in wireless LAN client mode.  
 
@@ -51,19 +42,25 @@ Precautions
 2. The camera may shut down automatically if it becomes too hot while streaming for a long period of time.
 View details here：https://www.thetalab.ricoh/en/plugin/wireless-live-streaming/  
 
+</div>
+
 ## What's New
+
+<div id="plugin-whats-new">
+
 * Corrected the problem that top-bottom correction does not work in combination with THETA X v1.30.0 or later.
 * Resolved the problem that dynamic stitching does not work properly in combination with THETA X v1.40.0 or later.
 * Dealing with the problem that a certain thread occupies the CPU.
 
-## Information
-  * Updated：2023/05/09
-  * Version：1.2.3
-  * Requires：
-    * RICOH THETA X (Firmware version 2.00.0)
-    * RICOH THETA Z1 (Firmware version 2.30.1)
-    * RICOH THETA V (Firmware version 3.80.2)
-  * Support：[RICOH Plugins](https://support.theta360.com/ja/)
-  * Age Restriction：No
+</div>
 
-* The [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) basic app for computer is required to install plugins
+## Information
+
+- Updated: 2023/05/09
+- Version: 1.2.3
+- Requires:
+  - RICOH THETA X (v2.00.0)
+  - RICOH THETA Z1 (v2.30.1)
+  - RICOH THETA V (v3.80.2)
+- Support: [RICOH Plugins](https://support.ricoh360.com/)
+- Age Restriction: No

@@ -1,27 +1,18 @@
 English(US) | [日本語](README.ja.md)
 
 # Starry Sky Snap
+
 Ricoh Company, Ltd.  
-[Terms of Use](https://theta360.com/en/legal/terms_of_use_plugins/)
+[Terms of Use](https://www.ricoh360.com/terms/plugins/)
 
-<div align="center">
- <img src="1.png">
-
- <table>
-  <tr>
-   <td><img src="2.png"></td>
-   <td><img src="3.png"></td>
-   <td><img src="4.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-  </tr>
- </table>
-</div>
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/com.theta360.starryskysnap/apk)
 
-***
-
 ## Description
+
+<div id="plugin-description">
+
 This plug-in can easily shoot the starry sky.  
 Various shooting settings are required to shoot the starry sky. With this plug-in, just press the shutter button in an environment where the starry sky is visible. The camera will then analyze the best shooting settings for the starry sky and then shoot the sky. This enables you to easily shoot the starry sky without requiring any expert knowledge.  
 
@@ -75,16 +66,22 @@ The file save format set with RICOH THETA Z1 is retained by the plug-in. Even if
 
 If this plug-in is not exited properly, the camera settings before starting the plug-in may have been changed.  
 
+</div>
+
 ## What's New
+
+<div id="plugin-whats-new">
+
 On RICOH THETA Z1, it is now possible to select the save format of files (JPEG or RAW+) by operating the wireless button.
 
-## Information
-  * Updated：2022/9/16
-  * Version：1.1.0
-  * Requires：
-    * RICOH THETA Z1 (Firmware version 2.10.1)
-    * RICOH THETA V (Firmware version 3.80.2)
-  * Support：[RICOH Plugins](https://support.theta360.com/ja/)
-  * Age Restriction：No
+</div>
 
-* The [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) basic app for computer is required to install plugins
+## Information
+
+- Updated: 2022/9/16
+- Version: 1.1.0
+- Requires:
+  - RICOH THETA Z1 (v2.10.1)
+  - RICOH THETA V (v3.80.2)
+- Support: [RICOH Plugins](https://support.ricoh360.com/)
+- Age Restriction: No

@@ -1,26 +1,18 @@
 [English(US)](README.md) | 日本語
 
 # 360 Monitor Free
-SKUNK WORKS  
-[利用規約](https://theta360.com/en/legal/terms_of_use_plugins/)
 
-<div align="center">
- <img src="1.png">
- <table>
-  <tr>
-   <td><img src="2.png"></td>
-   <td><img src="3.png"></td>
-   <td><img src="4.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-  </tr>
- </table>
-</div>
+SKUNK WORKS  
+[利用規約](https://www.ricoh360.com/ja/terms/plugins/)
+
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/skunkworks.monitor/apk)
 
-***
-
 ## 説明
+
+<div id="plugin-description">
+
 360°カメラ RICOH THETA V / RICOH THETA Z1 があれば、現場の状況を閲覧可能！  
 インターバル撮影された360°画像を、専用サイト経由でリモート閲覧することができます。  
   
@@ -57,18 +49,23 @@ SKUNK WORKS
 1.通信環境によって、画像のアップロードができない場合があります。  
   
 2.長時間利用したときに、発熱等で、動作を停止する場合があります。その際は、電源OFF/ONの上、再度プラグインを起動ください。  
-  
-  
+
+</div>
+
 ## 新機能
+
+<div id="plugin-whats-new">
+
 プロキシ設定に対応しました。
 
-## 情報
-  * 更新日：2020/7/15
-  * バージョン：0.0.2
-  * 要件：
-    * RICOH THETA Z1 （ファームウェア バージョン 1.40.1）
-    * RICOH THETA V （ファームウェア バージョン 3.30.1）
-  * サポート：[Partner Plugins](https://360analysis.ricoh/monitoring/en/)
-  * 年齢制限：なし
+</div>
 
-* プラグインをインストールするにはパソコン用基本アプリ [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) が必要です
+## 情報
+
+- 更新日: 2020/7/15
+- バージョン: 0.0.2
+- 要件:
+  - RICOH THETA Z1 (v1.40.1)
+  - RICOH THETA V (v3.30.1)
+- サポート: [Partner Plugins](https://360analysis.ricoh/monitoring/en/)
+- 年齢制限: なし

@@ -1,26 +1,18 @@
 [English(US)](README.md) | 日本語
 
 # Instant Night Snap
-Ricoh Company, Ltd.  
-[利用規約](https://theta360.com/en/legal/terms_of_use_plugins/)
 
-<div align="center">
- <img src="1.png">
- <table>
-  <tr>
-   <td><img src="2.png"></td>
-   <td><img src="3.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-  </tr>
- </table>
-</div>
+Ricoh Company, Ltd.  
+[利用規約](https://www.ricoh360.com/ja/terms/plugins/)
+
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/com.theta360.instantnightsnap/apk)
 
-***
-
 ## 説明
+
+<div id="plugin-description">
+
 本プラグインはきらびやかな夜景を手軽に撮影いたします。  
   
 RICOH THETAの撮影モードAUTOで夜景を撮影すると、見たままの印象の写真にならないことがあります。  
@@ -65,14 +57,14 @@ RICOH THETA Z1は、リモートコントロール(TR-1)にも対応していま
 
 * RICOH THETA Vは、本プラグインとリモートコントロールの併用が行えません。  
 
+</div>
 
 ## 情報
-  * 更新日：2021/10/10
-  * バージョン：1.0.0
-  * 要件：
-    * RICOH THETA Z1 （ファームウェア バージョン 2.00.1）
-    * RICOH THETA V （ファームウェア バージョン 3.70.1）
-  * サポート：[RICOH Plugins](https://support.theta360.com/ja/)
-  * 年齢制限：なし
 
-* プラグインをインストールするにはパソコン用基本アプリ [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) が必要です
+- 更新日: 2021/10/10
+- バージョン: 1.0.0
+- 要件:
+  - RICOH THETA Z1 (v2.00.1)
+  - RICOH THETA V (v3.70.1)
+- サポート: [RICOH Plugins](https://support.ricoh360.com/ja/)
+- 年齢制限: なし
