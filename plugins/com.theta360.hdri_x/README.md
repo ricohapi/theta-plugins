@@ -1,27 +1,18 @@
 English(US) | [日本語](README.ja.md)
 
 # HDRI-X
+
 Ricoh Company, Ltd.  
-[Terms of Use](https://theta360.com/en/legal/terms_of_use_plugins/)
+[Terms of Use](https://www.ricoh360.com/terms/plugins/)
 
-<div align="center">
- <img src="1.png">
-
- <table>
-  <tr>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-  </tr>
- </table>
-</div>
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/com.theta360.hdri_x/apk)
 
-***
-
 ## Description
+
+<div id="plugin-description">
+
 This plug-in is for THETA X. The URL for the plug-in for THETA Z1 is below.  
 https://github.com/ricohapi/theta-plugins/tree/main/plugins/com.theta360.hdri  
   
@@ -76,13 +67,14 @@ DCIM/HDRI/YYYYMMDD_HHMMSS.hdr
   
 [Bracket shooting result (original data of .exr file)]  
 DCIM/HDRI/Bracket/YYYYMMDD_HHMMSS/YYYYMMDD_HHMMSS_N.JPG  
-  
-## Information
-  * Updated：2023/9/25
-  * Version：1.0.0
-  * Requires：
-    * RICOH THETA X (Firmware version 2.20.1,2.21.0)
-  * Support：[RICOH Plugins](https://support.theta360.com/en/)
-  * Age Restriction：No
 
-* The [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) basic app for computer is required to install plugins
+</div>
+
+## Information
+
+- Updated: 2023/9/25
+- Version: 1.0.0
+- Requires:
+  - RICOH THETA X (v2.20.1, v2.21.0)
+- Support: [RICOH Plugins](https://support.theta360.com/en/)
+- Age Restriction: No

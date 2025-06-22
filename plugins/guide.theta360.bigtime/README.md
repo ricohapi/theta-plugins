@@ -1,27 +1,18 @@
 English(US) | [日本語](README.ja.md)
 
 # bigtime
+
 Matt Hotsinpillar  
 [Terms of Use](https://www.apache.org/licenses/LICENSE-2.0)
 
-<div align="center">
- <img src="1.png">
-
- <table>
-  <tr>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-  </tr>
- </table>
-</div>
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/guide.theta360.bigtime/apk)
 
-***
-
 ## Description
+
+<div id="plugin-description">
+
 Sets self-timer delay for longer than 5 seconds.  
   
 ##Workflow  
@@ -46,14 +37,14 @@ run out of the scene.
 * Wi-Fi LED will flash magenta when plug-in is on
 * Audio prompt will sound 2.5 seconds before shot. LED will speed up
 * LED speeds up faster 1.25 seconds before shot
-  
-  
-## Information
-  * Updated：2019/8/8
-  * Version：1.0.0
-  * Requires：
-    * RICOH THETA V (Firmware version 2.50.1,3.00.1)
-  * Support：[Partner Plugins](https://community.theta360.guide/t/matt-h-bigtime-long-timer-delay-plug-in/4638)
-  * Age Restriction：No
 
-* The [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) basic app for computer is required to install plugins
+</div>
+
+## Information
+
+- Updated: 2019/8/8
+- Version: 1.0.0
+- Requires:
+  - RICOH THETA V (v2.50.1, v3.00.1)
+- Support: [Partner Plugins](https://community.theta360.guide/t/matt-h-bigtime-long-timer-delay-plug-in/4638)
+- Age Restriction: No

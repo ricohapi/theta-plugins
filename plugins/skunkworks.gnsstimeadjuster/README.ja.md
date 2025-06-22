@@ -1,26 +1,18 @@
 [English(US)](README.md) | 日本語
 
 # Time Adjuster via GNSS
-SKUNK WORKS  
-[利用規約](https://theta360.com/en/legal/terms_of_use_plugins/)
 
-<div align="center">
- <img src="1.png">
- <table>
-  <tr>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-  </tr>
- </table>
-</div>
+SKUNK WORKS  
+[利用規約](https://www.ricoh360.com/ja/terms/plugins/)
+
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/skunkworks.gnsstimeadjuster/apk)
 
-***
-
 ## 説明
+
+<div id="plugin-description">
+
 全球測位衛星システム（GNSS）からの電波が受信できる場所で「START ADJUSTMENT」ボタンを押すと、カメラの時刻が設定できます。  
   
 電波が届かない場所で「START ADJUSTMENT」ボタンを押すと、電波が受信できるようになったタイミングで時刻が設定されます。  
@@ -36,12 +28,13 @@ SKUNK WORKS
 チェックポイント1：「位置情報追加機能」がオンになっていること。  
 チェックポイント2：「日時設定」→「自動」がONになっていること。   
 
-## 情報
-  * 更新日：2022/4/26
-  * バージョン：1.0.0
-  * 要件：
-    * RICOH THETA X （ファームウェア バージョン 1.00.2,1.10.1）
-  * サポート：[Partner Plugins](https://github.com/theta-skunkworks/theta-plugin-time-adjuster-via-gnss)
-  * 年齢制限：なし
+</div>
 
-* プラグインをインストールするにはパソコン用基本アプリ [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) が必要です
+## 情報
+
+- 更新日: 2022/4/26
+- バージョン: 1.0.0
+- 要件:
+  - RICOH THETA X (v1.00.2, v1.10.1)
+- サポート: [Partner Plugins](https://github.com/theta-skunkworks/theta-plugin-time-adjuster-via-gnss)
+- 年齢制限: なし

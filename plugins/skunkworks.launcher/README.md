@@ -1,27 +1,18 @@
 English(US) | [日本語](README.ja.md)
 
 # Plug-in Launcher for Z1
+
 SKUNK WORKS  
-[Terms of Use](https://theta360.com/en/legal/terms_of_use_plugins/)
+[Terms of Use](https://www.ricoh360.com/terms/plugins/)
 
-<div align="center">
- <img src="1.png">
-
- <table>
-  <tr>
-   <td><img src="2.png"></td>
-   <td><img src="3.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-  </tr>
- </table>
-</div>
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/skunkworks.launcher/apk)
 
-***
-
 ## Description
+
+<div id="plugin-description">
+
 With THETA alone, you can select the desired plug-in from all already installed plug-ins and start the plug-in.  
 No need to connect your smartphone or computer with THETA before launching the plug-in!  
   
@@ -55,12 +46,13 @@ When WLAN mode is AP mode, you can do the following with webUI.
 Note:  
 After launching another plug-in from this plug-in, only this plug-in is set in the standard plug-in start list.  
 
-## Information
-  * Updated：2019/10/17
-  * Version：1.0.2
-  * Requires：
-    * RICOH THETA Z1 (Firmware version 1.11.1)
-  * Support：[Partner Plugins](https://github.com/theta-skunkworks/theta-plug-in-launcher)
-  * Age Restriction：No
+</div>
 
-* The [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) basic app for computer is required to install plugins
+## Information
+
+- Updated: 2019/10/17
+- Version: 1.0.2
+- Requires:
+  - RICOH THETA Z1 (v1.11.1)
+- Support: [Partner Plugins](https://github.com/theta-skunkworks/theta-plug-in-launcher)
+- Age Restriction: No

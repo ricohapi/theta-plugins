@@ -1,27 +1,18 @@
 English(US) | [日本語](README.ja.md)
 
 # Outside-in Shooting BETA
+
 Ricoh Company, Ltd.  
-[Terms of Use](https://theta360.com/en/legal/terms_of_use_plugins/)
+[Terms of Use](https://www.ricoh360.com/terms/plugins/)
 
-<div align="center">
- <img src="1.png">
-
- <table>
-  <tr>
-   <td><img src="2.png"></td>
-   <td><img src="3.png"></td>
-   <td><img src="/resources/common/img/noimg.png"></td>
-   <td><img src="/resources/common/img/noimg.png"></td>
-  </tr>
- </table>
-</div>
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/com.theta360.around/apk)
 
-***
+## Description
 
-## Description  
+<div id="plugin-description">
+
 This plug-in generates images with the subject at the center and enables you to view the subject from various directions by shooting a 360° video while moving around the subject. Camera position information* detected with Visual SLAM technology is assigned to 360° videos. This provides a new video experience in 360° that differs from conventional playback methods. Playing back the shot video on the camera allows you to view the video frame-by-frame by swiping on the screen. The subject is placed at the center and can be viewed from different directions. This is perfect for seeing the exact shape of an object.  
 
 * Relative position information based on self-position estimation (this is not position information from a GNSS (Global Navigation Satellite System))  
@@ -45,15 +36,21 @@ Press the shutter button or tap the frame near the center of the screen to begin
 – Playback  
 Tap the thumbnail that is displayed after shooting, or exit the plug-in and tap the view button in the single view at the playback screen. Swipe left or right in the single view to move the view.  
 
+</div>
+
 ## What's New
+
+<div id="plugin-whats-new">
+
   * 1.0.1 : Bug Fix  
 
-## Information
-  * Updated：2024/09/30
-  * Version：1.0.1
-  * Requires：
-    * RICOH THETA X (Firmware version 2.61.0)
-  * Support：[RICOH Plugins](https://support.theta360.com/ja/)
-  * Age Restriction：No
+</div>
 
-* The [RICOH THETA](https://support-theta.ricoh360.com/app-download) basic app for computer is required to install plugins
+## Information
+
+- Updated: 2024/09/30
+- Version: 1.0.1
+- Requires:
+  - RICOH THETA X (v2.61.0)
+- Support: [RICOH Plugins](https://support.ricoh360.com/)
+- Age Restriction: No

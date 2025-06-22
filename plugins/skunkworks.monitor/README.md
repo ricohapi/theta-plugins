@@ -1,27 +1,18 @@
 English(US) | [日本語](README.ja.md)
 
 # 360 Monitor Free
+
 SKUNK WORKS  
-[Terms of Use](https://theta360.com/en/legal/terms_of_use_plugins/)
+[Terms of Use](https://www.ricoh360.com/terms/plugins/)
 
-<div align="center">
- <img src="1.png">
-
- <table>
-  <tr>
-   <td><img src="2.png"></td>
-   <td><img src="3.png"></td>
-   <td><img src="4.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-  </tr>
- </table>
-</div>
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/skunkworks.monitor/apk)
 
-***
-
 ## Description
+
+<div id="plugin-description">
+
 With RICOH THETA V / RICOH THETA Z1, you can browse on-site situation!  
 You can remotely browse the 360 degree images taken at intervals via the dedicated website.  
   
@@ -53,16 +44,23 @@ Precautions
 1. Depending on the network conditions, you may not be able to upload images.
 2. When used for a long time, the operation may stop due to heat generation.In that case, please reboot THETA and start the plug-in again.
 
+</div>
+
 ## What's New
+
+<div id="plugin-whats-new">
+
 Support proxy settings
 
-## Information
-  * Updated：2020/7/15
-  * Version：0.0.2
-  * Requires：
-    * RICOH THETA Z1 (Firmware version 1.40.1)
-    * RICOH THETA V (Firmware version 3.30.1)
-  * Support：[Partner Plugins](https://360analysis.ricoh/monitoring/en/)
-  * Age Restriction：No
+</div>
 
-* The [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) basic app for computer is required to install plugins
+## Information
+
+
+- Updated: 2020/7/15
+- Version: 0.0.2
+- Requires:
+  - RICOH THETA Z1 (v1.40.1)
+  - RICOH THETA V (v3.30.1)
+- Support: [Partner Plugins](https://360analysis.ricoh/monitoring/en/)
+- Age Restriction: No

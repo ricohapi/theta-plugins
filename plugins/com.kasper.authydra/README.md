@@ -1,27 +1,18 @@
 English(US) | [日本語](README.ja.md)
 
 # Authydra
+
 Kasper Oerlemans  
 [Terms of Use](https://www.apache.org/licenses/LICENSE-2.0)
 
-<div align="center">
- <img src="1.png">
-
- <table>
-  <tr>
-   <td><img src="2.png"></td>
-   <td><img src="3.png"></td>
-   <td><img src="4.png"></td>
-   <td><img src="5.png"></td>
-  </tr>
- </table>
-</div>
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/com.kasper.authydra/apk)
 
-***
-
 ## Description
+
+<div id="plugin-description">
+
 VFX automatic HDR capture plugin  
   
 A plugin for the RICOH THETA V and Z1 to make one HDR exr file. Main use would be for on set VFX HDR capture. With a simple web interface one can set the capture settings and download the EXR file (and original pictures if desired)  
@@ -80,15 +71,15 @@ sRGB-> lin
 whitepoint  
 total time calculator  
 set auto off to 10 min  
-  
-  
-## Information
-  * Updated：2020/7/30
-  * Version：2.1.1
-  * Requires：
-    * RICOH THETA Z1 (Firmware version 1.40.1)
-    * RICOH THETA V (Firmware version 3.30.1)
-  * Support：[Partner Plugins](https://community.theta360.guide/t/hdr-plugin-to-automatically-create-exr-file-for-vfx-use/4132/9)
-  * Age Restriction：No
 
-* The [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) basic app for computer is required to install plugins
+</div>
+
+## Information
+
+- Updated: 2020/7/30
+- Version: 2.1.1
+- Requires:
+  - RICOH THETA Z1 (v1.40.1)
+  - RICOH THETA V (v3.30.1)
+- Support: [Partner Plugins](https://community.theta360.guide/t/hdr-plugin-to-automatically-create-exr-file-for-vfx-use/4132/9)
+- Age Restriction: No

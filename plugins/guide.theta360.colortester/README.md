@@ -1,27 +1,18 @@
 English(US) | [日本語](README.ja.md)
 
 # Color Tester
+
 John Parmalee  
 [Terms of Use](http://www.apache.org/licenses/LICENSE-2.0)
 
-<div align="center">
- <img src="1.png">
-
- <table>
-  <tr>
-   <td><img src="2.png"></td>
-   <td><img src="3.png"></td>
-   <td><img src="4.png"></td>
-   <td><img src="5.png"></td>
-  </tr>
- </table>
-</div>
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/guide.theta360.colortester/apk)
 
-***
-
 ## Description
+
+<div id="plugin-description">
+
 The THETA Color Tester Plug-in  
   
 The RICOH THETA V development environment is extremely flexible and allows developers to use LEDs as they please. LEDs can communicate information about starting an action, a current action, ending an action, and more.  
@@ -46,14 +37,14 @@ Change the color of the Wi-Fi Icon
 
   
 Good luck using the THETA LEDs and creating you own unique interesting UX for the camera.  
-  
-  
-## Information
-  * Updated：2019/6/11
-  * Version：1.0.4
-  * Requires：
-    * RICOH THETA V (Firmware version 2.50.1)
-  * Support：[Partner Plugins](https://community.theta360.guide/)
-  * Age Restriction：No
 
-* The [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) basic app for computer is required to install plugins
+</div>  
+
+## Information
+
+- Updated: 2019/6/11
+- Version: 1.0.4
+- Requires:
+  - RICOH THETA V (v2.50.1)
+- Support: [Partner Plugins](https://community.theta360.guide/)
+- Age Restriction: No

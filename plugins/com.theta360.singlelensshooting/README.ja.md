@@ -1,26 +1,18 @@
 [English(US)](README.md) | 日本語
 
 # Single Lens Shooting
-Ricoh Company, Ltd.  
-[利用規約](https://theta360.com/en/legal/terms_of_use_plugins/)
 
-<div align="center">
- <img src="1.png">
- <table>
-  <tr>
-   <td><img src="2.png"></td>
-   <td><img src="3.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-  </tr>
- </table>
-</div>
+Ricoh Company, Ltd.  
+[利用規約](https://www.ricoh360.com/ja/terms/plugins/)
+
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/com.theta360.singlelensshooting/apk)
 
-***
-
 ## 説明
+
+<div id="plugin-description">
+
 Single Lens Shooting（シングルレンズ撮影）は、THETAのフロントレンズ（シャッターボタンの反対側）だけで静止画を撮影できます。  
 アスペクト比は、4:3、1:1の2種類があります。  
   
@@ -46,16 +38,22 @@ Modeボタンを長押しし、プラグインを起動する。
   
 プラグインを起動した状態で、スマートフォン用基本アプリを操作することは出来ません。  
 
+</div>
+
 ## 新機能
+
+<div id="plugin-whats-new">
+
 画質を改善しました。
 
-## 情報
-  * 更新日：2019/7/1
-  * バージョン：1.0.1
-  * 要件：
-    * RICOH THETA Z1 （ファームウェア バージョン 1.03.5）
-    * RICOH THETA V （ファームウェア バージョン 3.00.1）
-  * サポート：[RICOH Plugins](https://support.theta360.com/ja/)
-  * 年齢制限：なし
+</div>
 
-* プラグインをインストールするにはパソコン用基本アプリ [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) が必要です
+## 情報
+
+- 更新日: 2019/7/1
+- バージョン: 1.0.1
+- 要件:
+  - RICOH THETA Z1 (v1.03.5)
+  - RICOH THETA V (v3.00.1)
+- サポート: [RICOH Plugins](https://support.ricoh360.com/ja/)
+- 年齢制限: なし

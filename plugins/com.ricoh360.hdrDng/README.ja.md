@@ -1,25 +1,15 @@
 [English(US)](README.md) | 日本語
 
 # HDR-DNG
+
 Ricoh Company, Ltd.  
-[Terms of Use](https://theta360.com/en/legal/terms_of_use_plugins/)
+[利用規約](https://www.ricoh360.com/ja/terms/plugins/)
 
-<div align="center">
- <img src="assets/1.png">
-
- <table>
-  <tr>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-  </tr>
- </table>
-</div>
-
-***
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 ## 説明
+
+<div id="plugin-description">
 
 RICOH THETA X 専用のHDR-DNGは、4枚のRAW画像をTHETA X内部で自動的にHDR処理しHDR-DNGフォーマットで出力するプラグインです。
 
@@ -89,13 +79,13 @@ QRコードを介して無線LANの簡単接続、及びWebUIへの簡単接続�
 
 - [THETA Xの最新プラグイン 「HDR-DNG」のご利用手順について](http://blog.ricoh360.com/ja/howtouse-thetax-hdrdng-plugin)
 
+</div>
+
 ## 情報
 
-* 更新日：2024/09/18
-* バージョン：1.0.1
-* 要件：
-  * RICOH THETA X (Firmware version 2.61.0)
-* サポート：[THETA Support](https://support-theta.ricoh360.com/)
-* 年齢制限：なし
-
-[def]: "assets/"
+- 更新日: 2024/09/18
+- バージョン: 1.0.1
+- 要件:
+  - RICOH THETA X (v2.61.0)
+- サポート: [RICOH Plugins](https://support.ricoh360.com/ja/)
+- 年齢制限: なし

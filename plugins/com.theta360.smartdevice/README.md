@@ -1,27 +1,18 @@
 English(US) | [日本語](README.ja.md)
 
 # Smart Device
+
 Ricoh Company, Ltd.  
-[Terms of Use](https://theta360.com/en/legal/terms_of_use_plugins/)
+[Terms of Use](https://www.ricoh360.com/terms/plugins/)
 
-<div align="center">
- <img src="1.png">
-
- <table>
-  <tr>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-  </tr>
- </table>
-</div>
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/com.theta360.smartdevice/apk)
 
-***
-
 ## Description
+
+<div id="plugin-description">
+
 With Smart Device plug-in, Alexa lets you use your voice to control RICOH THETA by speaking commands through Alexa device. To setup voice control to any certified "Works with Alexa" product*, enable the skill and link your Alexa account to your RICOH THETA account. Then just ask Alexa shoot still images, shoot videos, and change still image shooting settings**.  
 *　Operation is not guaranteed on all devices  
 ** Shooting settings can be changed for each of HDR rendering, DR compensation or noise reduction.  
@@ -58,13 +49,14 @@ https://support.theta360.com/intl/ricoh_plugins/pdf/smartdevice_en.pdf
   
 Amazon, Echo, Echo Dot, Alexa and all related logos and motion marks are trademarks of Amazon.com, Inc. or its affiliates.  
 
-## Information
-  * Updated：2019/10/11
-  * Version：1.0.0
-  * Requires：
-    * RICOH THETA Z1 (Firmware version 1.11.1)
-    * RICOH THETA V (Firmware version 3.04.1)
-  * Support：[RICOH Plugins](https://support.theta360.com/ja/)
-  * Age Restriction：No
+</div>
 
-* The [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) basic app for computer is required to install plugins
+## Information
+
+- Updated: 2019/10/11
+- Version: 1.0.0
+- Requires:
+  - RICOH THETA Z1 (v1.11.1)
+  - RICOH THETA V (v3.04.1)
+- Support: [RICOH Plugins](https://support.ricoh360.com/)
+- Age Restriction: No

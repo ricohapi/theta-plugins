@@ -1,27 +1,18 @@
 English(US) | [日本語](README.ja.md)
 
 # HID Remote
+
 SKUNK WORKS  
-[Terms of Use](https://theta360.com/en/legal/terms_of_use_plugins/)
+[Terms of Use](https://www.ricoh360.com/terms/plugins/)
 
-<div align="center">
- <img src="1.png">
-
- <table>
-  <tr>
-   <td><img src="2.png"></td>
-   <td><img src="3.png"></td>
-   <td><img src="4.png"></td>
-   <td><img src="5.png"></td>
-  </tr>
- </table>
-</div>
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/skunkworks.hid/apk)
 
-***
-
 ## Description
+
+<div id="plugin-description">
+
 With this plug-in, you can remotely control THETA using the connected HID (Human Interface Device).  
   
 There are various types of HID such as keyboard, mouse, finger presenter, game controller, VR mouse and so on.  
@@ -47,8 +38,13 @@ When using this plug-in, the buttons on the THETA main unit have the same mechan
 You can also change the role of the buttons on the THETA.  
   
 Use this plug-in to customize your THETA for better usability.  
-    
+
+</div>  
+
 ## What's New
+
+<div id="plugin-whats-new">
+
 The contents of the version upgrade are as follows.  
 
 1.Bilingual support and improved sound quality:  
@@ -62,13 +58,14 @@ Changed to display the plug-in name while the plugin is running.
 3.Support for Bluetooth HID  
 Even if the version of the plug-in is old, it was possible to use it by upgrading the FW version of THETA, but I described how to use it again.
 
-## Information
-  * Updated：2021/6/3
-  * Version：1.1.0
-  * Requires：
-    * RICOH THETA Z1 (Firmware version 1.60.1,1.80.1)
-    * RICOH THETA V (Firmware version 3.60.1)
-  * Support：[Partner Plugins](https://github.com/theta-skunkworks/theta-plugin-usb-hid-sample)
-  * Age Restriction：No
+</div>
 
-* The [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) basic app for computer is required to install plugins
+## Information
+
+- Updated: 2021/6/3
+- Version: 1.1.0
+- Requires:
+  - RICOH THETA Z1 (v1.60.1, v1.80.1)
+  - RICOH THETA V (v3.60.1)
+- Support: [Partner Plugins](https://github.com/theta-skunkworks/theta-plugin-usb-hid-sample)
+- Age Restriction: No

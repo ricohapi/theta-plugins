@@ -1,27 +1,18 @@
 [English(US)](README.md) | 日本語
 
 # Wireless Live Streaming
-Ricoh Company, Ltd.  
-[利用規約](https://theta360.com/en/legal/terms_of_use_plugins/)
 
-<div align="center">
- <img src="1.png">
- 
- <table>
-  <tr>
-   <td><img src="2.png"></td>
-   <td><img src="3.png"></td>
-   <td><img src="4.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-  </tr>
- </table>
-</div>
+Ricoh Company, Ltd.  
+[利用規約](https://www.ricoh360.com/ja/terms/plugins/)
+
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/com.theta360.cloudstreaming/apk)
 
-***
-
 ## 説明
+
+<div id="plugin-description">
+
 Wireless Live Streaming (無線ライブストリーミング）は、THETAを無線LANアクセスポイントに接続し、PCを介さずにYouTube経由で360°の映像を手軽にライブ配信できます。  
 ※THETAをクライアントモードで使用する必要があります。  
 
@@ -51,19 +42,25 @@ https://www.thetalab.ricoh/plugin/wireless-live-streaming/
 
 詳細はこちら：https://www.thetalab.ricoh/plugin/wireless-live-streaming/
 
+</div>
+
 ## 新機能
+
+<div id="plugin-whats-new">
+
 * *THETA X v1.30.0以降との組み合せにて、天頂補正が動作しない問題への対処。
 * THETA X v1.40.0以降との組み合せにて、動的繋ぎが正しく動作しない問題への対処。
 * 特定のスレッドがCPUを占有していた問題への対処。
 
-## 情報
-  * 更新日：2023/05/09
-  * バージョン：1.2.3
-  * 要件：
-    * RICOH THETA X （ファームウェア バージョン 2.00.0）
-    * RICOH THETA Z1 （ファームウェア バージョン 2.30.1）
-    * RICOH THETA V （ファームウェア バージョン 3.80.2）
-  * サポート：[RICOH Plugins](https://support.theta360.com/ja/)
-  * 年齢制限：なし
+</div>
 
-* プラグインをインストールするにはパソコン用基本アプリ [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) が必要です
+## 情報
+
+- 更新日: 2023/05/09
+- バージョン: 1.2.3
+- 要件:
+  - RICOH THETA X (v2.00.0)
+  - RICOH THETA Z1 (v2.30.1)
+  - RICOH THETA V (v3.80.2)
+- サポート: [RICOH Plugins](https://support.ricoh360.com/ja/)
+- 年齢制限:: なし

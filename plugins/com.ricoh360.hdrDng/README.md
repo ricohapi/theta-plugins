@@ -1,25 +1,15 @@
 English(US) | [日本語](README.ja.md)
 
 # HDR-DNG
+
 Ricoh Company, Ltd.  
-[Terms of Use](https://theta360.com/en/legal/terms_of_use_plugins/)
+[Terms of Use](https://www.ricoh360.com/terms/plugins/)
 
-<div align="center">
- <img src="assets/1.png">
-
- <table>
-  <tr>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-  </tr>
- </table>
-</div>
-
-***
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 ## Description
+
+<div id="plugin-description">
 
 “HDR-DNG” is a plug-in for RICOH THETA X. It automatically processes four RAW images for HDR rendering in THETA X and outputs a rendered image in HDR-DNG format.  
   
@@ -89,13 +79,13 @@ Tapping icon ⑤ will display a QR code for connecting to the WebUI. By scanning
 
 - [Procedure to use the latest plug-in for THETA X, “HDR-DNG”](http://blog.ricoh360.com/en/howtouse-thetax-hdrdng-plugin)
 
+</div>
+
 ## Information
 
-* Updated：2024/09/18
-* Version：1.0.1
-* Requires：
-  * RICOH THETA X (Firmware version 2.61.0)
-* Support：[THETA Support](https://support-theta.ricoh360.com/)
-* Age Restriction：No
-
-[def]: "assets/"
+- Updated: 2024/09/18
+- Version: 1.0.1
+- Requires:
+  - RICOH THETA X (v2.61.0)
+- Support: [RICOH Plugins](https://support.ricoh360.com/)
+- Age Restriction: No

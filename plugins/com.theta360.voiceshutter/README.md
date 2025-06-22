@@ -1,27 +1,18 @@
 English(US) | [日本語](README.ja.md)
 
 # Voice Trigger Capture
+
 Ricoh Company, Ltd.  
-[Terms of Use](https://theta360.com/en/legal/terms_of_use_plugins/)
+[Terms of Use](https://www.ricoh360.com/terms/plugins/)
 
-<div align="center">
- <img src="1.png">
-
- <table>
-  <tr>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-   <td><img src="../../resources/common/img/noimg.png"></td>
-  </tr>
- </table>
-</div>
+<div align="center"><img src="./1.png"><table><tr><td><img src="./2.png"></td><td><img src="./3.png"></td><td><img src="./4.png"></td><td><img src="./5.png"></td></tr></table></div>
 
 [![Install on THETA](https://assets.ricoh360.com/image/upload/v1/front/theta/install-button.svg?)](https://link.ricoh360.com/plugins/com.theta360.voiceshutter/apk)
 
-***
-
 ## Description
+
+<div id="plugin-description">
+
 You can take still images with voice commands.  
 Simply start the plug-in and say "Yes" to take a still image without pressing the shutter button.  
 
@@ -41,17 +32,23 @@ How to shoot:
 
 Say “YES”  
 
+</div>
+
 ## What's New
+
+<div id="plugin-whats-new">
+
 - It is now compatible with RICOH THETA X.
 
-## Information
-  * Updated：2022/5/16
-  * Version：1.1.0
-  * Requires：
-    * RICOH THETA X (Firmware version 1.00.2)
-    * RICOH THETA Z1 (Firmware version 2.00.1)
-    * RICOH THETA V (Firmware version 3.70.1)
-  * Support：[RICOH Plugins](https://support.theta360.com/ja/)
-  * Age Restriction：No
+</div>
 
-* The [RICOH THETA](https://theta360.com/ja/about/application/pc.html#app-detail-01) basic app for computer is required to install plugins
+## Information
+
+- Updated: 2022/5/16
+- Version: 1.1.0
+- Requires:
+  - RICOH THETA X (v1.00.2)
+  - RICOH THETA Z1 (v2.00.1)
+  - RICOH THETA V (v3.70.1)
+- Support: [RICOH Plugins](https://support.ricoh360.com/)
+- Age Restriction: No
