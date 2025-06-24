@@ -6,8 +6,9 @@ The Android™ base OS RICOH THETA model can expand various types of functions v
 
 ## Install the Plugin
 
-> [!NOTE]
-> [RICOH THETA PC App](https://support.ricoh360.com/app-download/) is required to install plugins.
+> [!NOTE]  
+> [RICOH THETA PC App](https://support.ricoh360.com/app-download/) is required to install plugins.  
+> Before installing the plugin, please read the [THETA Plugin Application Common Terms Agreement](https://www.ricoh360.com/terms/plugins/).
 
 __Install Instructions__
 
@@ -15,9 +16,6 @@ __Install Instructions__
 1. Click the __[Install on THETA]__ button from the description page of the plugin you want to install. RICOH THETA PC App is started.
 1. Follow the instructions on the screen to install the plugin.
 
-> [!CAUTION]
-> Depending on the plugin being installed, it may affect image data, video data, and location data that constitute privacy assets.  
-> Please read and agree to the [THETA Plugin Application Common Terms Agreement](https://www.ricoh360.com/terms/plugins/) before installing plugins.
 
 ## Plugins
 
