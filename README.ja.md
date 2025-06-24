@@ -6,8 +6,9 @@ RICOH THETAシリーズのAndroid™ベースOSの機種では、スマートフ
 
 ## プラグインをインストールする
 
-> [!NOTE]
-> プラグインをインストールするには、[RICOH THETA PC App](https://support.ricoh360.com/app-download/) が必要です。
+> [!NOTE]  
+> プラグインをインストールするには、[RICOH THETA PC App](https://support.ricoh360.com/app-download/) が必要です。  
+> [THETA Plugin Application 共通利用規約](https://www.ricoh360.com/ja/terms/plugins/)を確認の上、ご利用ください。
 
 __インストール方法__
 
@@ -15,9 +16,6 @@ __インストール方法__
 1. インストールするプラグインの説明ページから __[Install on THETA]__ ボタンをクリックする。RICOH THETA PC App が起動します。
 1. 画面の指示に従ってプラグインをインストールする。
 
-> [!CAUTION]
-> プラグインによっては、プライバシー資産に該当する画像・映像データおよび位置情報に影響を与える可能性があります。  
-> [THETA Plugin Application 共通利用規約](https://www.ricoh360.com/ja/terms/plugins/)を確認の上、ご利用ください。
 
 ## プラグイン一覧
 
