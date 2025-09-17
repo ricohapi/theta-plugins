@@ -21,10 +21,6 @@ __Install Instructions__
 
 ### RICOH Plugins
 
-- [360 Hunting Game](plugins/com.theta360.hunting360)
-- [Animation Auto Framing](plugins/com.theta360.animationautoframing)
-- [Automatic Face Blur BETA](plugins/com.theta360.automaticfaceblur)
-- [Continuous Shooting](plugins/com.theta360.continuousshooting)
 - [File cloud upload V2](plugins/com.theta360.clouduploadv2)
 - [HDR-DNG](plugins/com.ricoh360.hdrDng)
 - [HDRI](plugins/com.theta360.hdri)
@@ -32,16 +28,13 @@ __Install Instructions__
 - [Instant Night Snap](plugins/com.theta360.instantnightsnap)
 - [Outside-in Shooting BETA](plugins/com.theta360.around)
 - [Person Detection & Counting](plugins/com.theta360.persondetectionandcounting)
-- [Quick Transfer Ready](plugins/com.theta360.quicktransferready)
 - [Route Shooting BETA](plugins/com.theta360.walk)
 - [Self-timer Locked](plugins/com.theta360.selftimerlocked)
 - [Single Lens Shooting](plugins/com.theta360.singlelensshooting)
-- [Smart Device](plugins/com.theta360.smartdevice)
 - [Starry Sky Snap](plugins/com.theta360.starryskysnap)
 - [Time Shift Shooting](plugins/com.theta360.timeshiftshooting)
 - [Underside Cover](plugins/com.theta360.undersidecover)
 - [Voice Trigger Capture](plugins/com.theta360.voiceshutter)
-- [VR Media Connection](plugins/com.theta360.vrmediaconnection)
 - [Wireless Live Streaming](plugins/com.theta360.cloudstreaming)
 
 ### Partner Plugins

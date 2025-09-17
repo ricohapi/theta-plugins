@@ -21,10 +21,6 @@ __インストール方法__
 
 ### RICOH Plugins
 
-- [360 Hunting Game](plugins/com.theta360.hunting360/README.ja.md)
-- [Animation Auto Framing](plugins/com.theta360.animationautoframing/README.ja.md)
-- [Automatic Face Blur BETA](plugins/com.theta360.automaticfaceblur/README.ja.md)
-- [Continuous Shooting](plugins/com.theta360.continuousshooting/README.ja.md)
 - [File cloud upload V2](plugins/com.theta360.clouduploadv2/README.ja.md)
 - [HDR-DNG](plugins/com.ricoh360.hdrDng/README.ja.md)
 - [HDRI](plugins/com.theta360.hdri/README.ja.md)
@@ -32,16 +28,13 @@ __インストール方法__
 - [Instant Night Snap](plugins/com.theta360.instantnightsnap/README.ja.md)
 - [Outside-in Shooting BETA](plugins/com.theta360.around/README.ja.md)
 - [Person Detection & Counting](plugins/com.theta360.persondetectionandcounting/README.ja.md)
-- [Quick Transfer Ready](plugins/com.theta360.quicktransferready/README.ja.md)
 - [Route Shooting BETA](plugins/com.theta360.walk/README.ja.md)
 - [Self-timer Locked](plugins/com.theta360.selftimerlocked/README.ja.md)
 - [Single Lens Shooting](plugins/com.theta360.singlelensshooting/README.ja.md)
-- [Smart Device](plugins/com.theta360.smartdevice/README.ja.md)
 - [Starry Sky Snap](plugins/com.theta360.starryskysnap/README.ja.md)
 - [Time Shift Shooting](plugins/com.theta360.timeshiftshooting/README.ja.md)
 - [Underside Cover](plugins/com.theta360.undersidecover/README.ja.md)
 - [Voice Trigger Capture](plugins/com.theta360.voiceshutter/README.ja.md)
-- [VR Media Connection](plugins/com.theta360.vrmediaconnection/README.ja.md)
 - [Wireless Live Streaming](plugins/com.theta360.cloudstreaming/README.ja.md)
 
 ### Partner Plugins
